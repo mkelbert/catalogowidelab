@@ -156,7 +156,7 @@
   },
   {
     "id": 8,
-    "title": "Coletas e Entregas com Rastreio",
+    "title": "Entrega Rápida",
     "tags": ["Logística"],
     "product": "Portal Widelab",
     "images": [
@@ -179,7 +179,7 @@
   },
   {
     "id": 8000,
-    "title": "Coletas e Entregas com Rastreio (Motoboy)",
+    "title": "Entrega Rápida (Motoboy)",
     "tags": ["Logística"],
     "product": "APP",
     "images": [
@@ -200,6 +200,7 @@
     "scopeProposal": "Motorista acessa suas entregas pelo celular. O app orienta por rota, registra status, coleta assinatura digital e fotos como comprovante. Funciona offline e sincroniza automaticamente depois. Integra direto com o portal da operação."
   },
 
+
   
   {
     "id": 9,
@@ -218,6 +219,27 @@
     "scope": "APP + WEB: Abrir, executar e comprovar atendimentos em campo com registro digital.",
     "scopeProposal": "App offline para técnicos (SAT/OAT), horas apontadas e assinatura do cliente. Sincroniza com o módulo ASTEC do Consistem."
   },
+  {
+    "id": 9000,
+    "title": "Assistência Técnica",
+    "tags": ["Atendimento", "Assistência", "ERP Consistem"],
+    "product": "APP",
+    "images": [],
+    "videoUrl": "",
+    "prototype": "https://drive.google.com/file/d/1bjrbjlYOC7MlyiXJmnI-CBM_sdaiNQvI/view",
+    "pains": [
+      "Sem dados do que foi feito em campo",
+      "Papelada que vira retrabalho a noite e hora extra",
+      "Dificuldade para cobrar por falta de evidência",
+      "Sem padrão e sem histórico"
+    ],
+    "scope": "APP + WEB: Abrir, executar e comprovar atendimentos em campo com registro digital.",
+    "scopeProposal": "App offline para técnicos (SAT/OAT), horas apontadas e assinatura do cliente. Sincroniza com o módulo ASTEC do Consistem."
+  },
+
+  
+
+  
   {
     "id": 10,
     "title": "Catálogo Digital (Busca Rápida)",
