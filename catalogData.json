@@ -104,14 +104,13 @@
     "videoUrl": "",
     "prototype": "",
     "pains": [
-      "Horas no Canva para tarefas repetidas",
-      "Inconsistência visual entre imagens",
-      "Retrabalho item a item",
-      "Custo hora de pessoas",
-      "Custo de ferramentas"
+      "Perda de tempo com edição manual em ferramentas como Canvas",
+      "Imagens com visual inconsistente nas lojas e catálogos",
+      "Retrabalho item por item em grandes volumes",
+      "Custo elevado com mão de obra e ferramentas externas",
     ],
-    "scope": "Padroniza e acelera a publicação de imagens.",
-    "scopeProposal": "Ferramenta web para aplicar logotipo em várias imagens de uma vez, ajustando tamanho, opacidade e posição, mantendo qualidade para web."
+    "scope": "Ferramenta que padroniza e agiliza a aplicação de logotipo em várias imagens ao mesmo tempo, com controle de qualidade e identidade visual.",
+    "scopeProposal": "Via Portal Widelab, o usuário seleciona um lote de imagens e aplica, de forma automatizada, uma marca d’água com controle de posição, tamanho e opacidade. Ideal para publicações em e-commerce, catálogos, apresentações e redes sociais."
   },
   {
     "id": 7,
