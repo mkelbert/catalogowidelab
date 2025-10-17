@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "Entrada de Notas Automática 2",
+    "title": "Entrada de Notas Automática",
     "tags": ["Fiscal & Financeiro", "ERP Consistem"],
     "product": "Automação",
     "images": [
@@ -250,6 +250,23 @@
   {
     "id": 15,
     "title": "Atendimento Automático no WhatsApp",
+    "tags": ["Atendimento", "Vendas & Marketing", "Inteligência Artificial"],
+    "product": "ChatBot",
+    "images": [],
+    "videoUrl": "",
+    "prototype": "",
+    "pains": [
+      "Fila de perguntas repetidas",
+      "Tempo de resposta alto",
+      "Equipe sobrecarregada",
+      "Custo para atender fora do horário"
+    ],
+    "scope": "Responde o cliente 24/7 no WhatsApp.",
+    "scopeProposal": "Assistente inteligente para dúvidas frequentes, informações técnicas e encaminhamentos, com histórico e relatórios."
+  },
+  {
+    "id": 15000,
+    "title": "Atendimento Automático no WhatsApp II",
     "tags": ["Atendimento", "Vendas & Marketing", "Inteligência Artificial"],
     "product": "ChatBot",
     "images": [],
