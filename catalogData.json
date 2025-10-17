@@ -240,26 +240,32 @@
     "scope": "App para técnicos SAT/OAT executarem e comprovarem os atendimentos em campo.",
     "scopeProposal": "Técnico acessa os atendimentos no app, mesmo offline. Registra horas trabalhadas, adiciona fotos, coleta assinatura do cliente e sincroniza com o sistema ao voltar à rede. Evita papelada e acelera a cobrança."
   },
-
-  
-
-  
   {
     "id": 10,
     "title": "Catálogo Digital (Busca Rápida)",
     "tags": ["Vendas & Marketing", "Inteligência Artificial"],
     "product": "APP",
-    "images": [],
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catakigo-QuickFind-Ap00.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catakigo-QuickFind-Ap01.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catakigo-QuickFind-Ap01a.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catakigo-QuickFind-Ap02.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catakigo-QuickFind-Ap02a.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catakigo-QuickFind-Ap05.png"
+    ],
     "videoUrl": "https://drive.google.com/file/d/1sjJle522iSYXmji9BJi1MTlOwsWcm9bs/view?usp=sharing",
     "prototype": "https://www.figma.com/proto/ibifJS92scpb61GmtL0hMe/Widelab---QuickFind?page-id=0%3A1&node-id=58-1538&node-type=canvas&viewport=829%2C394%2C0.03&t=Y7LCTdSDoovQXJW7-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=58%3A1538&show-proto-sidebar=1",
     "pains": [
+      "Dificuldade em encontrar o produto ou semelhantes",
       "Catálogo desatualizado ou apenas fisico",
-      "Falta de comunicação, notificações, novidades",
-      "Dificuldade em encontrar o produto ou semelhantes"
+      "Falta de comunicação, notificações, novidades"
     ],
     "scope": "Catálogo mobile com banners, busca e favoritos.",
     "scopeProposal": "Cards com informações completas, banners promocionais e opção de reconhecimento por foto (IA) para acelerar a busca."
   },
+
+
+  
   {
     "id": 11,
     "title": "Cashback e Pontos (Fidelidade)",
