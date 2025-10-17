@@ -263,6 +263,31 @@
     "scope": "App mobile para navegação rápida e inteligente em catálogos de produtos.",
   "scopeProposal": "Permite buscar produtos por nome, código ou foto (IA). Apresenta cards com imagens, descrição e especificações. Ideal para representantes, distribuidores e clientes."
   },
+  {
+    "id": 19,
+    "title": "App do Motorista",
+    "tags": ["Logística", "ERP Consistem"],
+    "product": "Portal",
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-AppMotorista-App-01.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-AppMotorista-App-02.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-AppMotorista-App-03.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-AppMotorista-App-04.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-AppMotorista-App-05.png"      
+    ],
+    "videoUrl": "",
+    "prototype": "https://www.figma.com/proto/BotrJL2mhhJaOuBZwbChXm/App-Motorista?node-id=1158-591&p=f&t=4YOyGMu9pPVZIjed-0&scaling=scale-down&content-scaling=fixed&page-id=1133%3A236&starting-point-node-id=1158%3A591",
+    "pains": [
+      "Carregamentos sem controle claro de embarque",
+      "Falta de comprovante digital de entrega",
+      "Motoristas sem acesso à rota e outras informações pertinentes",
+      "Sem status online das entregas para o time interno",
+      "Demora na conferência e liberação de mercadorias",
+      "Desembarques errados por falta de informação e rastreio"
+    ],
+      "scope": "App mobile para motoristas com rastreabilidade ponta a ponta.",
+      "scopeProposal": "O motorista visualiza suas rotas, embarques e ordens de entrega diretamente no app. Durante a entrega, registra fotos, assinatura do cliente e status de cada parada. O app funciona offline e sincroniza depois, garantindo controle, agilidade e integração com o ERP Consistem e o Portal Widelab."
+  },
 
 
 
@@ -273,6 +298,10 @@
 
 
 
+
+
+
+  
 
   
   {
@@ -420,20 +449,5 @@
     ],
     "scope": "Padroniza inspeções e reduz refugos.",
     "scopeProposal": "Checklist por item, registro de fotos e apontamentos em tempo real. Acompanhamento por fornecedor e ordem."
-  },
-  {
-    "id": 19,
-    "title": "App do Motorista (Entrega com Prova)",
-    "tags": ["Logística"],
-    "product": "Portal",
-    "images": [],
-    "videoUrl": "",
-    "prototype": "https://www.figma.com/proto/BotrJL2mhhJaOuBZwbChXm/App-Motorista?node-id=1158-591&p=f&t=4YOyGMu9pPVZIjed-0&scaling=scale-down&content-scaling=fixed&page-id=1133%3A236&starting-point-node-id=1158%3A591",
-    "pains": [
-      "Carregamento sem controle",
-      "Sem comprovante digital de entrega"
-    ],
-    "scope": "Entrega rastreada do início ao fim.",
-    "scopeProposal": "App do motorista com rotas, status de embarque e entrega, foto/assinatura como comprovante e relatórios."
   }
 ]
