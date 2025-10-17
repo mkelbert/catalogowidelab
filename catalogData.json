@@ -125,12 +125,12 @@
     "prototype": "https://www.figma.com/proto/XDfyuTdwQXz8cJSlrBo9ae/AMC---Super-App?node-id=328-1828&p=f&t=xojiLuOQARtRmLqC-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=328%3A1828&show-proto-sidebar=1",
     "pains": [
       "Dificuldade para treinar equipes distribuídas",
-      "Gestão do Conhecimento",
-      "Sem comprovação de capacitação",
-      "Sem visibilidade de progresso e impacto"
+      "Falta de gestão centralizada do conhecimento",
+      "Ausência de comprovação formal de capacitação",
+      "Pouca visibilidade do progresso individual, por equipe ou unidade"
     ],
-    "scope": "APP + WEB: Treinamentos digitais, com trilhas e certificados.",
-    "scopeProposal": "Vídeos, áudios e textos por módulos, com questionários, pontuação e certificado. Acompanha evolução por pessoa, equipe e unidade."
+    "scope": "Plataforma digital (Web) de treinamentos com trilhas estruturadas e certificados, ideal para capacitar equipes de forma escalável e monitorada.",
+    "scopeProposal": "Usuários acessam módulos de aprendizado (vídeo, áudio, texto), respondem questionários, acumulam pontos e recebem certificados. A administração monitora evolução por pessoa, equipe e unidade. Trilhas podem ser configuradas por competência ou função."
   },
   {
     "id": 7000,
@@ -147,12 +147,12 @@
     "prototype": "https://www.figma.com/proto/DfxSUj2VsMcFYxhbH2Q254/AMC---Conx%C3%A3o-Web?node-id=1-530&p=f&t=tWKmk7tw95uaoqqk-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A530",
     "pains": [
       "Dificuldade para treinar equipes distribuídas",
-      "Gestão do Conhecimento",
-      "Sem comprovação de capacitação",
-      "Sem visibilidade de progresso e impacto"
+      "Falta de gestão centralizada do conhecimento",
+      "Ausência de comprovação formal de capacitação",
+      "Pouca visibilidade do progresso individual, por equipe ou unidade"
     ],
-    "scope": "APP + WEB: Treinamentos digitais, com trilhas e certificados.",
-    "scopeProposal": "Vídeos, áudios e textos por módulos, com questionários, pontuação e certificado. Acompanha evolução por pessoa, equipe e unidade."
+    "scope": "App nativo + versão Web para entregar treinamentos adaptados a dispositivos móveis, com trilhas, avaliações e rastreamento de progresso.",
+    "scopeProposal": "Usuários acessam o conteúdo via app ou navegador: consomem vídeos, textos ou áudios; respondem quizzes; ganham certificados."
   },
 
 
