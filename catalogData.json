@@ -83,14 +83,14 @@
     "videoUrl": "",
     "prototype": "",
     "pains": [
-      "Gasto de licença com novos usuários no ERP",
-      "Soluções personalizadas e do cliente, desenvolvida dentro e dependente do ERP",
-      "Virada de versão quebra customização no ERP",
-      "Está tudo no Excel / Papel",
-      "Não tenho acesso aos dados via API"
+      "Custo elevado com licenças de novos usuários no ERP",
+      "Soluções desenvolvidas dentro do ERP, difíceis de manter e escalar",
+      "Atualizações do ERP quebram customizações existentes",
+      "Processos ainda rodando via Excel ou papel",
+      "Falta de acesso a dados via API"
     ],
-    "scope": "Um ponto central para módulos e dados da empresa, de fácil acesso aos dados",
-    "scopeProposal": "Empresas, usuários, perfis e notificações em um portal único. Serve de base para módulos como catálogos, vendas, logística e treinamentos."
+    "scope": "Um portal web centralizado, moderno e flexível para acesso seguro a dados, processos e módulos fora do ERP.",
+    "scopeProposal": "O Portal Widelab oferece uma camada independente e integrada para visualização e interação com dados da empresa — sem consumir licenças do ERP. Possui gestão de empresas, usuários, perfis e notificações. Serve de base para módulos sob medida, como catálogos, vendas, logística e treinamentos."
   },
   {
     "id": 6,
