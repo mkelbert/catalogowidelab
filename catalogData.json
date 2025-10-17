@@ -1,0 +1,331 @@
+[
+  {
+    "id": 1,
+    "title": "Entrada de Notas Automática",
+    "tags": ["Fiscal & Financeiro", "ERP Consistem"],
+    "product": "Automação",
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Entrada-de-Notas-Automatica-01.png"
+    ],
+    "videoUrl": "",
+    "prototype": "",
+    "pains": [
+      "Equipe presa em tarefas manuais e repetitivas",
+      "Atrasos que travam produção e faturamento",
+      "Custo de contratação para dar conta do volume",
+      "Erros de digitação que viram retrabalho e impostos incorretos"
+    ],
+    "scope": "Automatiza o lançamento de notas fiscais para ganhar velocidade e reduzir erros.",
+    "scopeProposal": "Robô que lê, confere e lança notas no ERP com os campos obrigatórios preenchidos corretamente. Funciona para entradas, retornos e terceirizações."
+  },
+  {
+    "id": 2,
+    "title": "Busca Lançamentos Bancários e Baixa Títulos",
+    "tags": ["Fiscal & Financeiro", "ERP Consistem"],
+    "product": "Automação",
+    "images": [],
+    "videoUrl": "https://www.youtube.com/shorts/-8R2lZN7YWs",
+    "prototype": "https://drive.google.com/file/d/1R0L-nqPV-IyjrskG3lcB7lUGKlquEGEW/view?usp=sharing",
+    "pains": [
+      "Horas diárias gastas com conciliação bancárias",
+      "Alto volume de baixas e retrabalho",
+      "Processo cansativo e sujeito a erro",
+      "Escala de equipe cresce com o volume"
+    ],
+    "scope": "Automatiza a baixa financeira para liberar o time e reduzir custos.",
+    "scopeProposal": "Robô que busca lançamentos, identifica créditos, aplica regras por portador (antecipação, taxas) e efetiva as baixas sem intervenção manual."
+  },
+  {
+    "id": 3,
+    "title": "Análise de Crédito Automática",
+    "tags": ["Fiscal & Financeiro", "ERP Consistem"],
+    "product": "Automação",
+    "images": [],
+    "videoUrl": "",
+    "prototype": "",
+    "pains": [
+      "Pedidos parados por análise demorada",
+      "Difícil manter análises atualizadas",
+      "Risco de inadimplência por falta de checagem",
+      "Perdas por informação pública ignorada"
+    ],
+    "scope": "Aprovações mais rápidas com menos risco.",
+    "scopeProposal": "Ao receber o pedido, o robô coleta dados, gera relatório e sinaliza bloqueio ou aprovação automaticamente, seguindo critérios definidos."
+  },
+  {
+    "id": 4,
+    "title": "Lançamento de Extrato Automatizado",
+    "tags": ["Fiscal & Financeiro", "ERP Consistem"],
+    "product": "Automação",
+    "images": [],
+    "videoUrl": "https://youtu.be/nXWixSzGLx8",
+    "prototype": "",
+    "pains": [
+      "Digitando extrato na mão e errando",
+      "Formatos diferentes por banco",
+      "Conciliação demorada",
+      "Duplicidades e ajustes frequentes"
+    ],
+    "scope": "Transforma extratos em lançamentos contábeis sem digitação manual.",
+    "scopeProposal": "Robô identifica cliente (CPF/CNPJ), cria documentos com a finalidade correta e separa créditos a identificar, pronto para conciliação."
+  },
+  {
+    "id": 5,
+    "title": "Portal Widelab",
+    "tags": ["Plataforma Wide", "ERP Consistem"],
+    "product": "Portal Widelab",
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Portal-Widelab-01-scaled.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Portal-Widelab-02-scaled.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Portal-Widelab-03-scaled.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Portal-Widelab-04-scaled.png"
+    ],
+    "videoUrl": "",
+    "prototype": "",
+    "pains": [
+      "Gasto de licença com novos usuários no ERP",
+      "Soluções personalizadas e do cliente, desenvolvida dentro e dependente do ERP",
+      "Virada de versão quebra customização no ERP",
+      "Está tudo no Excel / Papel",
+      "Não tenho acesso aos dados via API"
+    ],
+    "scope": "Um ponto central para módulos e dados da empresa, de fácil acesso aos dados",
+    "scopeProposal": "Empresas, usuários, perfis e notificações em um portal único. Serve de base para módulos como catálogos, vendas, logística e treinamentos."
+  },
+  {
+    "id": 6,
+    "title": "Marca d'Água em Lote",
+    "tags": ["Vendas & Marketing"],
+    "product": "Portal Widelab",
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-EditorImg-01-scaled.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-EditorImg-02-scaled.png"
+    ],
+    "videoUrl": "",
+    "prototype": "",
+    "pains": [
+      "Horas no Canva para tarefas repetidas",
+      "Inconsistência visual entre imagens",
+      "Retrabalho item a item",
+      "Custo hora de pessoas",
+      "Custo de ferramentas"
+    ],
+    "scope": "Padroniza e acelera a publicação de imagens.",
+    "scopeProposal": "Ferramenta web para aplicar logotipo em várias imagens de uma vez, ajustando tamanho, opacidade e posição, mantendo qualidade para web."
+  },
+  {
+    "id": 7,
+    "title": "Universidade Corporativa",
+    "tags": ["Treinamento"],
+    "product": "Portal Widelab",
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Universidade-01.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Universidade-02.png"
+    ],
+    "videoUrl": "",
+    "prototype": "https://www.figma.com/proto/DfxSUj2VsMcFYxhbH2Q254/AMC---Conx%C3%A3o-Web?node-id=1-530&p=f&t=tWKmk7tw95uaoqqk-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A530",
+    "pains": [
+      "Dificuldade para treinar equipes distribuídas",
+      "Gestão do Conhecimento",
+      "Sem comprovação de capacitação",
+      "Sem visibilidade de progresso e impacto"
+    ],
+    "scope": "APP + WEB: Treinamentos digitais, com trilhas e certificados.",
+    "scopeProposal": "Vídeos, áudios e textos por módulos, com questionários, pontuação e certificado. Acompanha evolução por pessoa, equipe e unidade."
+  },
+  {
+    "id": 8,
+    "title": "Coletas e Entregas com Rastreio",
+    "tags": ["Logística"],
+    "product": "Portal Widelab",
+    "images": [],
+    "videoUrl": "",
+    "prototype": "https://www.figma.com/proto/U9YQaVgWsBvizE12ZL0ZxM/EnvieBox---App?node-id=1-14&p=f&t=nxIp536eAcECthkg-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A14&show-proto-sidebar=1",
+    "pains": [
+      "Sem visibilidade de onde está a entrega",
+      "Pagamento por entrega sem controle",
+      "Sem histórico e comprovação",
+      "Demora para comunicar ocorrências",
+      "Segurança"
+    ],
+    "scope": "APP + WEB: Gestão de coletas/entregas e motorista com app.  * Motoboy Próprio   * Integração ENVIEBOX",
+    "scopeProposal": "Portal para criar entregas; app do motorista com GPS, foto e assinatura. Funciona offline e sincroniza depois. Relatórios por rota e período."
+  },
+  {
+    "id": 9,
+    "title": "Assistência Técnica",
+    "tags": ["Atendimento", "Assistência", "ERP Consistem"],
+    "product": "Portal Widelab",
+    "images": [],
+    "videoUrl": "",
+    "prototype": "https://drive.google.com/file/d/1bjrbjlYOC7MlyiXJmnI-CBM_sdaiNQvI/view",
+    "pains": [
+      "Sem dados do que foi feito em campo",
+      "Papelada que vira retrabalho a noite e hora extra",
+      "Dificuldade para cobrar por falta de evidência",
+      "Sem padrão e sem histórico"
+    ],
+    "scope": "APP + WEB: Abrir, executar e comprovar atendimentos em campo com registro digital.",
+    "scopeProposal": "App offline para técnicos (SAT/OAT), horas apontadas e assinatura do cliente. Sincroniza com o módulo ASTEC do Consistem."
+  },
+  {
+    "id": 10,
+    "title": "Catálogo Digital (Busca Rápida)",
+    "tags": ["Vendas & Marketing", "Inteligência Artificial"],
+    "product": "APP",
+    "images": [],
+    "videoUrl": "https://drive.google.com/file/d/1sjJle522iSYXmji9BJi1MTlOwsWcm9bs/view?usp=sharing",
+    "prototype": "https://www.figma.com/proto/ibifJS92scpb61GmtL0hMe/Widelab---QuickFind?page-id=0%3A1&node-id=58-1538&node-type=canvas&viewport=829%2C394%2C0.03&t=Y7LCTdSDoovQXJW7-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=58%3A1538&show-proto-sidebar=1",
+    "pains": [
+      "Catálogo desatualizado ou apenas fisico",
+      "Falta de comunicação, notificações, novidades",
+      "Dificuldade em encontrar o produto ou semelhantes"
+    ],
+    "scope": "Catálogo mobile com banners, busca e favoritos.",
+    "scopeProposal": "Cards com informações completas, banners promocionais e opção de reconhecimento por foto (IA) para acelerar a busca."
+  },
+  {
+    "id": 11,
+    "title": "Cashback e Pontos (Fidelidade)",
+    "tags": ["Vendas & Marketing"],
+    "product": "Portal Widelab",
+    "images": [],
+    "videoUrl": "",
+    "prototype": "",
+    "pains": [
+      "Dificuldade em pontuar clientes, representantes por vendas, compras",
+      "Falta de transparência",
+      "Pontos vencem sem aviso"
+    ],
+    "scope": "Recompensa clientes e aumenta recompra.",
+    "scopeProposal": "Clientes veem saldo, validade. Regras configuráveis. Comunicação por push."
+  },
+  {
+    "id": 12,
+    "title": "Pesquisas de Satisfação",
+    "tags": ["Vendas & Marketing", "Atendimento"],
+    "product": "Portal Widelab",
+    "images": [],
+    "videoUrl": "",
+    "prototype": "",
+    "pains": [
+      "Enviar pesquisas de forma simples (na palma da mão)",
+      "Decisões sem dados"
+    ],
+    "scope": "Entenda e priorize melhorias.",
+    "scopeProposal": "Criação de pesquisas e solicitação de resposta no APP"
+  },
+  {
+    "id": 13,
+    "title": "APP B2C",
+    "tags": ["Vendas & Marketing"],
+    "product": "APP",
+    "images": [],
+    "videoUrl": "",
+    "prototype": "https://www.figma.com/proto/mpvwZfCatxldCSop4fQRob/AMC",
+    "pains": [
+      "Sem canal de venda direta",
+      "Dependência de marketplace e taxas",
+      "Sem comunicação com o cliente final"
+    ],
+    "scope": "Ecommerce completo com a cara da sua marca.",
+    "scopeProposal": "Banners, catálogo, favoritos, carrinho e checkout com múltiplos meios de pagamento. Pronto para integrar à logística."
+  },
+  {
+    "id": 14,
+    "title": "Vendas de Ingressos/Passagens",
+    "tags": ["Vendas & Marketing", "Logística"],
+    "product": "APP",
+    "images": [],
+    "videoUrl": "",
+    "prototype": "https://www.figma.com/proto/MV5EIJ0B0n0MFpHrUKp4UX/Rode-Rotas",
+    "pains": [
+      "Venda presencial limitada e filas",
+      "Taxas altas em plataformas de terceiros",
+      "Sem comunicação com o cliente final"
+    ],
+    "scope": "Venda online com assentos e rotas.",
+    "scopeProposal": "Seleção de assento, rotas/horários, check-in, filmes, relatórios, pesquisas e outros."
+  },
+  {
+    "id": 15,
+    "title": "Atendimento Automático no WhatsApp",
+    "tags": ["Atendimento", "Vendas & Marketing", "Inteligência Artificial"],
+    "product": "ChatBot",
+    "images": [],
+    "videoUrl": "",
+    "prototype": "",
+    "pains": [
+      "Fila de perguntas repetidas",
+      "Tempo de resposta alto",
+      "Equipe sobrecarregada",
+      "Custo para atender fora do horário"
+    ],
+    "scope": "Responde o cliente 24/7 no WhatsApp.",
+    "scopeProposal": "Assistente inteligente para dúvidas frequentes, informações técnicas e encaminhamentos, com histórico e relatórios."
+  },
+  {
+    "id": 16,
+    "title": "Consignado (Malinha)",
+    "tags": ["Vendas & Marketing", "Varejo", "Inteligência Artificial"],
+    "product": "APP",
+    "images": [],
+    "videoUrl": "",
+    "prototype": "https://www.figma.com/proto/XDfyuTdwQXz8cJSlrBo9ae/AMC---Super-App?node-id=1774-8077&p=f&t=fBU6MxFrxpe7IPUm-0&scaling=scale-down&content-scaling=fixed&page-id=1631%3A4489&starting-point-node-id=1774%3A8077&show-proto-sidebar=1",
+    "pains": [
+      "Perde-se controle do que ficou com cada cliente",
+      "Esquecimento de buscar itens parados",
+      "Sem visão de giro e resultado",
+      "Falta de números e taxas de conversão"
+    ],
+    "scope": "Acompanha consignados por cliente, com ação rápida.",
+    "scopeProposal": "Carrinho persistente por cliente, histórico de produtos e alertas de prazo para retornar/fechar venda."
+  },
+  {
+    "id": 17,
+    "title": "Fila da Vez (CRM de Loja)",
+    "tags": ["Vendas & Marketing", "Varejo"],
+    "product": "APP",
+    "images": [],
+    "videoUrl": "",
+    "prototype": "https://www.figma.com/proto/XDfyuTdwQXz8cJSlrBo9ae/AMC---Super-App?node-id=694-3643&p=f&t=UjlIg1b5QYLSL9Al-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=32%3A80&show-proto-sidebar=1",
+    "pains": [
+      "Sem controle de atendimento por vendedor",
+      "Sem status do fluxo da loja d f",
+      "Sem histórico de perdas e motivos"
+    ],
+    "scope": "Organiza o fluxo da loja e aumenta conversão.",
+    "scopeProposal": "Distribui oportunidades, registra contatos e vendas, e mostra motivos de perda para ajuste do time."
+  },
+  {
+    "id": 18,
+    "title": "Inspeção de Qualidade em Campo",
+    "tags": ["Qualidade", "Produção"],
+    "product": "APP",
+    "images": [],
+    "videoUrl": "",
+    "prototype": "",
+    "pains": [
+      "Sem visão do que o fornecedor está produzindo",
+      "Falhas descobertas tarde demais",
+      "Inspeções sem padrão"
+    ],
+    "scope": "Padroniza inspeções e reduz refugos.",
+    "scopeProposal": "Checklist por item, registro de fotos e apontamentos em tempo real. Acompanhamento por fornecedor e ordem."
+  },
+  {
+    "id": 19,
+    "title": "App do Motorista (Entrega com Prova)",
+    "tags": ["Logística"],
+    "product": "Portal Widelab",
+    "images": [],
+    "videoUrl": "",
+    "prototype": "https://www.figma.com/proto/BotrJL2mhhJaOuBZwbChXm/App-Motorista?node-id=1158-591&p=f&t=4YOyGMu9pPVZIjed-0&scaling=scale-down&content-scaling=fixed&page-id=1133%3A236&starting-point-node-id=1158%3A591",
+    "pains": [
+      "Carregamento sem controle",
+      "Sem comprovante digital de entrega"
+    ],
+    "scope": "Entrega rastreada do início ao fim.",
+    "scopeProposal": "App do motorista com rotas, status de embarque e entrega, foto/assinatura como comprovante e relatórios."
+  }
+]
