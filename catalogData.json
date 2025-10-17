@@ -73,7 +73,7 @@
     "id": 5,
     "title": "Portal Widelab",
     "tags": ["ERP Consistem"],
-    "product": "Portal Widelab",
+    "product": "Portal",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Portal-Widelab-01-scaled.png",
       "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Portal-Widelab-02-scaled.png",
@@ -96,7 +96,7 @@
     "id": 6,
     "title": "Marca d'Água em Lote",
     "tags": ["Vendas & Marketing"],
-    "product": "Portal Widelab",
+    "product": "Portal",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-EditorImg-01-scaled.png",
       "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-EditorImg-02-scaled.png"
@@ -116,7 +116,7 @@
     "id": 7,
     "title": "Universidade Corporativa",
     "tags": ["Treinamento"],
-    "product": "Portal Widelab",
+    "product": "Portal",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Universidade-01.png",
       "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Universidade-02.png"
@@ -158,7 +158,7 @@
     "id": 8,
     "title": "Entrega Rápida",
     "tags": ["Logística"],
-    "product": "Portal Widelab",
+    "product": "Portal",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-EntregaRapida-Portal-01-scaled.png",
       "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-EntregaRapida-Portal-02-scaled.png",
@@ -203,7 +203,7 @@
     "id": 9,
     "title": "Assistência Técnica (Em Breve)",
     "tags": ["Atendimento", "Assistência", "ERP Consistem"],
-    "product": "Portal Widelab",
+    "product": "Portal",
     "images": [],
     "videoUrl": "",
     "prototype": "https://drive.google.com/file/d/1bjrbjlYOC7MlyiXJmnI-CBM_sdaiNQvI/view",
@@ -279,7 +279,7 @@
     "id": 11,
     "title": "Cashback e Pontos (Fidelidade)",
     "tags": ["Vendas & Marketing"],
-    "product": "Portal Widelab",
+    "product": "Portal",
     "images": [],
     "videoUrl": "",
     "prototype": "",
@@ -295,7 +295,7 @@
     "id": 12,
     "title": "Pesquisas de Satisfação",
     "tags": ["Vendas & Marketing", "Atendimento"],
-    "product": "Portal Widelab",
+    "product": "Portal",
     "images": [],
     "videoUrl": "",
     "prototype": "",
@@ -425,7 +425,7 @@
     "id": 19,
     "title": "App do Motorista (Entrega com Prova)",
     "tags": ["Logística"],
-    "product": "Portal Widelab",
+    "product": "Portal",
     "images": [],
     "videoUrl": "",
     "prototype": "https://www.figma.com/proto/BotrJL2mhhJaOuBZwbChXm/App-Motorista?node-id=1158-591&p=f&t=4YOyGMu9pPVZIjed-0&scaling=scale-down&content-scaling=fixed&page-id=1133%3A236&starting-point-node-id=1158%3A591",
