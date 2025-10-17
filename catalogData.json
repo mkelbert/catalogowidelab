@@ -201,7 +201,7 @@
   },
   {
     "id": 9,
-    "title": "Assistência Técnica",
+    "title": "Assistência Técnica (Em Breve)",
     "tags": ["Atendimento", "Assistência", "ERP Consistem"],
     "product": "Portal Widelab",
     "images": [],
@@ -218,7 +218,7 @@
   },
   {
     "id": 9000,
-    "title": "Assistência Técnica",
+    "title": "Assistência Técnica (Em Breve)",
     "tags": ["Atendimento", "Assistência", "ERP Consistem"],
     "product": "APP",
     "images": [
@@ -260,9 +260,18 @@
       "Catálogo desatualizado ou apenas fisico",
       "Falta de comunicação, notificações, novidades"
     ],
-    "scope": "Catálogo mobile com banners, busca e favoritos.",
-    "scopeProposal": "Cards com informações completas, banners promocionais e opção de reconhecimento por foto (IA) para acelerar a busca."
+    "scope": "App mobile para navegação rápida e inteligente em catálogos de produtos.",
+  "scopeProposal": "Permite buscar produtos por nome, código ou foto (IA). Apresenta cards com imagens, descrição e especificações. Ideal para representantes, distribuidores e clientes."
   },
+
+
+
+
+
+
+
+
+
 
 
   
