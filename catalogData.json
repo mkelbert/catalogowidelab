@@ -107,7 +107,7 @@
       "Perda de tempo com edição manual em ferramentas como Canvas",
       "Imagens com visual inconsistente nas lojas e catálogos",
       "Retrabalho item por item em grandes volumes",
-      "Custo elevado com mão de obra e ferramentas externas",
+      "Custo elevado com mão de obra e ferramentas externas"
     ],
     "scope": "Ferramenta que padroniza e agiliza a aplicação de logotipo em várias imagens ao mesmo tempo, com controle de qualidade e identidade visual.",
     "scopeProposal": "Via Portal Widelab, o usuário seleciona um lote de imagens e aplica, de forma automatizada, uma marca d’água com controle de posição, tamanho e opacidade. Ideal para publicações em e-commerce, catálogos, apresentações e redes sociais."
@@ -141,7 +141,7 @@
       "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Universidade-App-01.png",
       "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Universidade-App-02.png",
       "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Universidade-App-03.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Universidade-App-04.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Universidade-App-04.png"
     ],
     "videoUrl": "",
     "prototype": "https://www.figma.com/proto/DfxSUj2VsMcFYxhbH2Q254/AMC---Conx%C3%A3o-Web?node-id=1-530&p=f&t=tWKmk7tw95uaoqqk-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A530",
@@ -154,9 +154,6 @@
     "scope": "App nativo + versão Web para entregar treinamentos adaptados a dispositivos móveis, com trilhas, avaliações e rastreamento de progresso.",
     "scopeProposal": "Usuários acessam o conteúdo via app ou navegador: consomem vídeos, textos ou áudios; respondem quizzes; ganham certificados."
   },
-
-
-  
   {
     "id": 8,
     "title": "Coletas e Entregas com Rastreio",
