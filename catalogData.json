@@ -10,13 +10,13 @@
     "videoUrl": "",
     "prototype": "",
     "pains": [
-      "Equipe presa em tarefas manuais e repetitivas",
-      "Atrasos que travam produção e faturamento",
-      "Custo de contratação para dar conta do volume",
-      "Erros de digitação que viram retrabalho e impostos incorretos"
+      "Equipe sobrecarregada com tarefas manuais e repetitivas",
+      "Lançamentos atrasados que travam o faturamento e impactam a produção",
+      "Custo alto com equipe para dar conta do volume de notas",
+      "Retrabalho causado por erros de digitação e impostos lançados incorretamente"
     ],
-    "scope": "Automatiza o lançamento de notas fiscais para ganhar velocidade e reduzir erros.",
-    "scopeProposal": "Robô que lê, confere e lança notas no ERP com os campos obrigatórios preenchidos corretamente. Funciona para entradas, retornos e terceirizações."
+    "scope": "Automatiza o lançamento de notas fiscais no ERP, preenchendo campos obrigatórios com precisão e eliminando retrabalho. Ideal para entradas, retornos e operações com terceiros.",
+    "scopeProposal": "Um robô inteligente lê, confere e lança automaticamente as notas fiscais no ERP Consistem. O sistema garante que os dados estejam corretos antes do envio, acelerando o processo e evitando erros que geram custos."
   },
   {
     "id": 2,
@@ -27,13 +27,13 @@
     "videoUrl": "https://www.youtube.com/shorts/-8R2lZN7YWs",
     "prototype": "https://drive.google.com/file/d/1R0L-nqPV-IyjrskG3lcB7lUGKlquEGEW/view?usp=sharing",
     "pains": [
-      "Horas diárias gastas com conciliação bancárias",
-      "Alto volume de baixas e retrabalho",
-      "Processo cansativo e sujeito a erro",
-      "Escala de equipe cresce com o volume"
+      "Horas diárias gastas em conciliação bancária manual",
+      "Alto volume de títulos a baixar gera sobrecarga e retrabalho",
+      "Processo repetitivo, cansativo e propenso a erros",
+      "Equipe precisa crescer à medida que o volume aumenta"
     ],
-    "scope": "Automatiza a baixa financeira para liberar o time e reduzir custos.",
-    "scopeProposal": "Robô que busca lançamentos, identifica créditos, aplica regras por portador (antecipação, taxas) e efetiva as baixas sem intervenção manual."
+    "scope": "Automatiza o processo de baixa financeira no ERP, desde a busca dos lançamentos até a conciliação, eliminando a intervenção manual.",
+    "scopeProposal": "O robô acessa os extratos bancários, identifica os créditos recebidos e aplica regras definidas (como antecipações, taxas ou portadores específicos). Em seguida, realiza a baixa automática no ERP, sem depender de digitação humana."
   },
   {
     "id": 3,
@@ -44,13 +44,13 @@
     "videoUrl": "",
     "prototype": "",
     "pains": [
-      "Pedidos parados por análise demorada",
-      "Difícil manter análises atualizadas",
-      "Risco de inadimplência por falta de checagem",
-      "Perdas por informação pública ignorada"
+      "Pedidos travados por análise manual",
+      "Difícil manter os dados de crédito atualizados",
+      "Risco de vender para inadimplentes",
+      "Perdas por ignorar informações públicas"
     ],
-    "scope": "Aprovações mais rápidas com menos risco.",
-    "scopeProposal": "Ao receber o pedido, o robô coleta dados, gera relatório e sinaliza bloqueio ou aprovação automaticamente, seguindo critérios definidos."
+    "scope": "Reduz o tempo de análise de crédito e aumenta a segurança das decisões, com checagem automática.",
+    "scopeProposal": "Ao receber um pedido, o robô coleta dados públicos e internos, gera um relatório e aplica regras definidas para aprovar ou bloquear automaticamente, com base nos critérios da empresa."
   },
   {
     "id": 4,
@@ -61,13 +61,13 @@
     "videoUrl": "https://youtu.be/nXWixSzGLx8",
     "prototype": "",
     "pains": [
-      "Digitando extrato na mão e errando",
-      "Formatos diferentes por banco",
-      "Conciliação demorada",
-      "Duplicidades e ajustes frequentes"
+      "Lançamentos manuais de extrato com erros frequentes",
+      "Formatos variados de extrato por banco dificultam o processo",
+      "Conciliação bancária demorada e sujeita a falhas",
+      "Duplicidades e ajustes manuais viram rotina"
     ],
-    "scope": "Transforma extratos em lançamentos contábeis sem digitação manual.",
-    "scopeProposal": "Robô identifica cliente (CPF/CNPJ), cria documentos com a finalidade correta e separa créditos a identificar, pronto para conciliação."
+    "scope": "Transforma extratos bancários em lançamentos contábeis automáticos, com padronização e controle.",
+    "scopeProposal": "O robô interpreta os extratos, identifica o cliente (via CPF/CNPJ), preenche automaticamente os dados, define a finalidade de cada lançamento e separa os créditos “a identificar” para conciliação futura — tudo sem digitação manual."
   },
   {
     "id": 5,
