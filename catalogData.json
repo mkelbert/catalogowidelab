@@ -199,9 +199,6 @@
     "scope": "App para entregadores com GPS, fotos, assinatura e registro de ocorrências.",
     "scopeProposal": "Motorista acessa suas entregas pelo celular. O app orienta por rota, registra status, coleta assinatura digital e fotos como comprovante. Funciona offline e sincroniza automaticamente depois. Integra direto com o portal da operação."
   },
-
-
-  
   {
     "id": 9,
     "title": "Assistência Técnica",
@@ -211,30 +208,37 @@
     "videoUrl": "",
     "prototype": "https://drive.google.com/file/d/1bjrbjlYOC7MlyiXJmnI-CBM_sdaiNQvI/view",
     "pains": [
-      "Sem dados do que foi feito em campo",
-      "Papelada que vira retrabalho a noite e hora extra",
-      "Dificuldade para cobrar por falta de evidência",
-      "Sem padrão e sem histórico"
+      "Falta de visibilidade sobre atendimentos em campo",
+      "Dificuldade para cobrar sem evidências formais",
+      "Retrabalho para lançar papéis e preencher sistema depois",
+      "Ausência de histórico centralizado de assistências"
     ],
-    "scope": "APP + WEB: Abrir, executar e comprovar atendimentos em campo com registro digital.",
-    "scopeProposal": "App offline para técnicos (SAT/OAT), horas apontadas e assinatura do cliente. Sincroniza com o módulo ASTEC do Consistem."
+    "scope": "Painel de gestão das assistências técnicas da empresa, com dados em tempo real.",
+    "scopeProposal": "Gestores abrem atendimentos e acompanham em tempo real status, horas apontadas, evidências e assinatura do cliente. Integra com o módulo ASTEC do ERP Consistem, eliminando lançamentos manuais."
   },
   {
     "id": 9000,
     "title": "Assistência Técnica",
     "tags": ["Atendimento", "Assistência", "ERP Consistem"],
     "product": "APP",
-    "images": [],
-    "videoUrl": "",
-    "prototype": "https://drive.google.com/file/d/1bjrbjlYOC7MlyiXJmnI-CBM_sdaiNQvI/view",
-    "pains": [
-      "Sem dados do que foi feito em campo",
-      "Papelada que vira retrabalho a noite e hora extra",
-      "Dificuldade para cobrar por falta de evidência",
-      "Sem padrão e sem histórico"
+    "images": [
+       "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Astec-Ap01.png",
+       "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Astec-Ap02.png",
+       "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Astec-Ap03.png",
+       "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Astec-Ap04.png",
+       "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Astec-Ap05.png"
     ],
-    "scope": "APP + WEB: Abrir, executar e comprovar atendimentos em campo com registro digital.",
-    "scopeProposal": "App offline para técnicos (SAT/OAT), horas apontadas e assinatura do cliente. Sincroniza com o módulo ASTEC do Consistem."
+    "videoUrl": "",
+    "prototype": "https://www.figma.com/proto/Tkp6WlQp1Nk34ruFIl62bG/WD---App-Assist%C3%AAncia-T%C3%A9cnica?node-id=15-1720&p=f&t=W58Xn6EEzM7pzqjs-0&scaling=scale-down&content-scaling=fixed&page-id=15%3A1719&starting-point-node-id=15%3A1720",
+    "pains": [
+      "Sem informação no campo",
+      "Preenchimento manual em papel gera retrabalho à noite",
+      "Falta de padronização nas visitas técnicas",
+      "Perda de tempo para entregar relatórios depois",
+      "Sem comprovação para justificar horas ou cobrar"
+    ],
+    "scope": "App para técnicos SAT/OAT executarem e comprovarem os atendimentos em campo.",
+    "scopeProposal": "Técnico acessa os atendimentos no app, mesmo offline. Registra horas trabalhadas, adiciona fotos, coleta assinatura do cliente e sincroniza com o sistema ao voltar à rede. Evita papelada e acelera a cobrança."
   },
 
   
