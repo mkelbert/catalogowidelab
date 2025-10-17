@@ -122,6 +122,28 @@
       "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Universidade-02.png"
     ],
     "videoUrl": "",
+    "prototype": "https://www.figma.com/proto/XDfyuTdwQXz8cJSlrBo9ae/AMC---Super-App?node-id=328-1828&p=f&t=xojiLuOQARtRmLqC-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=328%3A1828&show-proto-sidebar=1",
+    "pains": [
+      "Dificuldade para treinar equipes distribuídas",
+      "Gestão do Conhecimento",
+      "Sem comprovação de capacitação",
+      "Sem visibilidade de progresso e impacto"
+    ],
+    "scope": "APP + WEB: Treinamentos digitais, com trilhas e certificados.",
+    "scopeProposal": "Vídeos, áudios e textos por módulos, com questionários, pontuação e certificado. Acompanha evolução por pessoa, equipe e unidade."
+  },
+  {
+    "id": 7000,
+    "title": "Universidade Corporativa",
+    "tags": ["Treinamento"],
+    "product": "APP",
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Universidade-App-01.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Universidade-App-02.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Universidade-App-03.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Universidade-App-04.png",
+    ],
+    "videoUrl": "",
     "prototype": "https://www.figma.com/proto/DfxSUj2VsMcFYxhbH2Q254/AMC---Conx%C3%A3o-Web?node-id=1-530&p=f&t=tWKmk7tw95uaoqqk-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A530",
     "pains": [
       "Dificuldade para treinar equipes distribuídas",
@@ -132,6 +154,9 @@
     "scope": "APP + WEB: Treinamentos digitais, com trilhas e certificados.",
     "scopeProposal": "Vídeos, áudios e textos por módulos, com questionários, pontuação e certificado. Acompanha evolução por pessoa, equipe e unidade."
   },
+
+
+  
   {
     "id": 8,
     "title": "Coletas e Entregas com Rastreio",
