@@ -201,7 +201,7 @@
   },
   {
     "id": 8000,
-    "title": "Entrega Rápida (Motoboy)",
+    "title": "Entrega Rápida (Entregador)",
     "tags": ["Logística"],
     "product": "APP",
     "images": [
@@ -223,12 +223,12 @@
   },
   {
     "id": 9,
-    "title": "Assistência Técnica (Em Breve)",
+    "title": "Assistência Técnica",
     "tags": ["Atendimento", "Assistência", "ERP Consistem"],
     "product": "Portal",
     "images": [],
     "videoUrl": "",
-    "prototype": "https://drive.google.com/file/d/1bjrbjlYOC7MlyiXJmnI-CBM_sdaiNQvI/view",
+    "prototype": "",
     "pains": [
       "Falta de visibilidade sobre atendimentos em campo",
       "Dificuldade para cobrar sem evidências formais",
@@ -240,7 +240,7 @@
   },
   {
     "id": 9000,
-    "title": "Assistência Técnica (Em Breve)",
+    "title": "Assistência Técnica",
     "tags": ["Atendimento", "Assistência", "ERP Consistem"],
     "product": "APP",
     "images": [
