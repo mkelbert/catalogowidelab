@@ -413,17 +413,17 @@
     "scope": "Responde o cliente, representante ou internos em 24/7 no WhatsApp.",
     "scopeProposal": "Assistente para dúvidas frequentes, informações técnicas e encaminhamentos, com histórico e relatórios."
   },
-
-
-  
-
-  
   {
     "id": 16,
     "title": "Consignado (Malinha)",
     "tags": ["Vendas & Marketing", "Varejo", "Inteligência Artificial"],
     "product": "APP",
-    "images": [],
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id16-01.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id16-02.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id16-03.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id16-04.png"
+    ],
     "videoUrl": "",
     "prototype": "https://www.figma.com/proto/XDfyuTdwQXz8cJSlrBo9ae/AMC---Super-App?node-id=1774-8077&p=f&t=fBU6MxFrxpe7IPUm-0&scaling=scale-down&content-scaling=fixed&page-id=1631%3A4489&starting-point-node-id=1774%3A8077&show-proto-sidebar=1",
     "pains": [
