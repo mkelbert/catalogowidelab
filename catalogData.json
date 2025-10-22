@@ -391,28 +391,6 @@
     "scopeProposal": "Assistente inteligente para dúvidas frequentes, informações técnicas e encaminhamentos, com histórico e relatórios."
   },
   {
-    "id": 20,
-    "title": "Atendimento de Dúvidas Técnicas no WhatsApp (com IA)",
-    "tags": ["Atendimento", "Vendas & Marketing", "Inteligência Artificial"],
-    "product": "ChatBot",
-    "images": [
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id-20-00.png"
-    ],
-    "videoUrl": "",
-    "prototype": "",
-    "pains": [
-      "Fila de perguntas repetidas",
-      "Tempo de resposta alto",
-      "Equipe sobrecarregada",
-      "Custo para atender fora do horário"
-    ],
-    "scope": "Responde o cliente, representante ou internos em 24/7 no WhatsApp.",
-    "scopeProposal": "Assistente inteligente para dúvidas frequentes, informações técnicas e encaminhamentos, com histórico e relatórios."
-  },
-
-
-  
-  {
     "id": 16,
     "title": "Consignado (Malinha)",
     "tags": ["Vendas & Marketing", "Varejo", "Inteligência Artificial"],
