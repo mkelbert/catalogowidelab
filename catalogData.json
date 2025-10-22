@@ -294,7 +294,11 @@
     "title": "Cashback e Pontos (Fidelidade)",
     "tags": ["Vendas & Marketing"],
     "product": "Portal",
-    "images": [],
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id11-00.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id11-01-scaled.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id11-02-scaled.png"
+    ],
     "videoUrl": "",
     "prototype": "",
     "pains": [
