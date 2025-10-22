@@ -314,7 +314,9 @@
     "title": "Pesquisas de Satisfação",
     "tags": ["Vendas & Marketing", "Atendimento"],
     "product": "Portal",
-    "images": [],
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id12-scaled.png"
+    ],
     "videoUrl": "",
     "prototype": "",
     "pains": [
@@ -324,15 +326,20 @@
     "scope": "Entenda e priorize melhorias.",
     "scopeProposal": "Criação de pesquisas e solicitação de resposta no APP"
   },
-
-
-  
   {
     "id": 13,
     "title": "APP B2C",
     "tags": ["Vendas & Marketing"],
     "product": "APP",
-    "images": [],
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id13-01.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id13-02.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id13-03.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id13-04.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id13-06.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id13-07.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id13-08.png"
+    ],
     "videoUrl": "",
     "prototype": "https://www.figma.com/proto/mpvwZfCatxldCSop4fQRob/AMC---App-Ecommerce-Open?node-id=12-2&p=f&t=64Pcp0qYxJXVQ41w-0&scaling=scale-down&content-scaling=fixed&page-id=12%3A2&starting-point-node-id=38%3A2",
     "pains": [
