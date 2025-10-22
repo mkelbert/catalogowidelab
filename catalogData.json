@@ -355,7 +355,14 @@
     "title": "Vendas de Ingressos/Passagens",
     "tags": ["Vendas & Marketing", "Logística"],
     "product": "APP",
-    "images": [],
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id14-00.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id14-01.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id14-02.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id14-03-scaled.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id14-04-scaled.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id14-05-scaled.png"
+    ],
     "videoUrl": "",
     "prototype": "https://www.figma.com/proto/MV5EIJ0B0n0MFpHrUKp4UX/Rode-Rotas",
     "pains": [
