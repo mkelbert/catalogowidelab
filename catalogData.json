@@ -375,11 +375,12 @@
   },
   {
     "id": 15,
-    "title": "Atendimento de Dúvidas Técnicas no WhatsApp (com IA)",
+    "title": "Atendimento no WhatsApp (com IA)",
     "tags": ["Atendimento", "Vendas & Marketing", "Inteligência Artificial"],
     "product": "ChatBot",
     "images": [
-       "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id-20-00.png"
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id-20-00.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id-20-01.png"
     ],
     "videoUrl": "",
     "prototype": "",
