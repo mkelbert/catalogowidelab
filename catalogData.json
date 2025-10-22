@@ -440,7 +440,11 @@
     "title": "Fila da Vez (CRM de Loja)",
     "tags": ["Vendas & Marketing", "Varejo"],
     "product": "APP",
-    "images": [],
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id16-01.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id16-02.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id16-03.png"
+    ],
     "videoUrl": "",
     "prototype": "https://www.figma.com/proto/XDfyuTdwQXz8cJSlrBo9ae/AMC---Super-App?node-id=694-3643&p=f&t=UjlIg1b5QYLSL9Al-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=32%3A80&show-proto-sidebar=1",
     "pains": [
