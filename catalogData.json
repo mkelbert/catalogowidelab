@@ -79,7 +79,9 @@
     "title": "Lançamento de Extrato Bancário Automatizado",
     "tags": ["Fiscal & Financeiro", "ERP Consistem"],
     "product": "Automação",
-    "images": [],
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id4-scaled.png",
+    ],
     "videoUrl": "https://youtu.be/nXWixSzGLx8",
     "prototype": "",
     "pains": [
