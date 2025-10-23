@@ -475,5 +475,34 @@
     ],
     "scope": "Padroniza inspeções e reduz refugos.",
     "scopeProposal": "Checklist por item, registro de fotos e apontamentos em tempo real. Acompanhamento por fornecedor e ordem."
+  },
+
+
+  {
+    "id": 19,
+    "title": "Vitrine",
+    "tags": ["Qualidade", "Varejo", "Vendas & Marketing"],
+    "product": "APP",
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id19-04.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id19-03.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id19-02.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id19-01.png"
+    ],
+    "videoUrl": "",
+    "prototype": "https://www.figma.com/proto/XDfyuTdwQXz8cJSlrBo9ae/AMC---Super-App?node-id=1098-4103&starting-point-node-id=1098%3A4103&show-proto-sidebar=1",
+    "pains": [
+      "Comunicação descentralizada entre indústria e lojistas",
+      "Perda de informações e histórico em mensagens de WhatsApp",
+      "Dificuldade para acompanhar o desempenho das vitrines em tempo real",
+      "Falta de dados consolidados sobre campanhas e execuções",
+      "Retrabalhos e atrasos na aprovação de vitrines"
+    ],
+    "scope": "Centraliza a gestão de vitrines e campanhas em um único app, conectando indústria e lojistas com dados, histórico e controle.",
+    "scopeProposal": "Agendamento e aprovação de vitrines pela indústria, envio de fotos e informações pelo lojista, acompanhamento em tempo real e relatórios com indicadores de execução e engajamento."
   }
+
+
+
+  
 ]
