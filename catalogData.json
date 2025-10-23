@@ -460,7 +460,12 @@
     "title": "Inspeção de Qualidade em Campo",
     "tags": ["Qualidade", "Produção"],
     "product": "APP",
-    "images": [],
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id18-01.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id18-02.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id18-03.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id18-04.png"
+    ],
     "videoUrl": "",
     "prototype": "",
     "pains": [
