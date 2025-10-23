@@ -476,8 +476,6 @@
     "scope": "Padroniza inspeções e reduz refugos.",
     "scopeProposal": "Checklist por item, registro de fotos e apontamentos em tempo real. Acompanhamento por fornecedor e ordem."
   },
-
-
   {
     "id": 20,
     "title": "Vitrine",
@@ -500,9 +498,32 @@
     ],
     "scope": "Centraliza a gestão de vitrines e campanhas em um único app, conectando indústria e lojistas com dados, histórico e controle.",
     "scopeProposal": "Agendamento e aprovação de vitrines pela indústria, envio de fotos e informações pelo lojista, acompanhamento em tempo real e relatórios com indicadores de execução e engajamento."
+  },
+
+  
+  {
+    "id": 21,
+    "title": "Força de Vendas (Representante)",
+    "tags": ["Vendas & Marketing"],
+    "product": "Portal",
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalago-id21-01-scaled.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalago-id21-02.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalago-id21-03.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalago-id21-04-scaled.png"
+    ],
+    "videoUrl": "",
+    "prototype": "https://www.figma.com/proto/XDfyuTdwQXz8cJSlrBo9ae/AMC---Super-App?node-id=1098-4103&starting-point-node-id=1098%3A4103&show-proto-sidebar=1",
+    "pains": [
+      "Comunicação descentralizada entre indústria e lojistas",
+      "Perda de informações e histórico em mensagens de WhatsApp",
+      "Dificuldade para acompanhar o desempenho das vitrines em tempo real",
+      "Falta de dados consolidados sobre campanhas e execuções",
+      "Retrabalhos e atrasos na aprovação de vitrines"
+    ],
+    "scope": "Centraliza a gestão de vitrines e campanhas em um único app, conectando indústria e lojistas com dados, histórico e controle.",
+    "scopeProposal": "Agendamento e aprovação de vitrines pela indústria, envio de fotos e informações pelo lojista, acompanhamento em tempo real e relatórios com indicadores de execução e engajamento."
   }
-
-
 
   
 ]
