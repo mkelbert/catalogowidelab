@@ -504,7 +504,7 @@
   {
     "id": 21,
     "title": "Força de Vendas (Representante)",
-    "tags": ["Vendas & Marketing"],
+    "tags": ["Vendas & Marketing", "ERP Consistem"],
     "product": "Portal",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalago-id21-01-scaled.png",
@@ -515,15 +515,14 @@
     "videoUrl": "",
     "prototype": "https://www.figma.com/proto/XDfyuTdwQXz8cJSlrBo9ae/AMC---Super-App?node-id=1098-4103&starting-point-node-id=1098%3A4103&show-proto-sidebar=1",
     "pains": [
-      "Comunicação descentralizada entre indústria e lojistas",
-      "Perda de informações e histórico em mensagens de WhatsApp",
-      "Dificuldade para acompanhar o desempenho das vitrines em tempo real",
-      "Falta de dados consolidados sobre campanhas e execuções",
-      "Retrabalhos e atrasos na aprovação de vitrines"
-    ],
-    "scope": "Centraliza a gestão de vitrines e campanhas em um único app, conectando indústria e lojistas com dados, histórico e controle.",
-    "scopeProposal": "Agendamento e aprovação de vitrines pela indústria, envio de fotos e informações pelo lojista, acompanhamento em tempo real e relatórios com indicadores de execução e engajamento."
+      "Representantes lidando com múltiplos canais e planilhas para registrar pedidos",
+      "Falta de padronização nos processos de cotação, aprovação e envio de pedidos",
+      "Erros manuais em cálculos e preços por cliente",
+      "Dificuldade de acesso a informações atualizadas de produtos, estoque e condições comerciais",
+      "Dependência de sistemas complexos ou suporte interno para registrar pedidos"
+  ],
+  "scope": "Desenvolvimento de uma plataforma de força de vendas totalmente customizada, onde representantes podem acessar, logar, registrar pedidos e acompanhar seu status, adaptada às regras comerciais e processos específicos de cada cliente.",
+  "scopeProposal": "Portal personalizado com login individual, gestão de clientes e pedidos, políticas comerciais dinâmicas, integração com ERP, cálculo automático de descontos, histórico de vendas. Foco em simplificar o processo de venda e garantir aderência total ao modelo de negócio do cliente."
   }
-
   
 ]
