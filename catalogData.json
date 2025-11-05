@@ -380,7 +380,8 @@
     "product": "ChatBot",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id-20-01.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id-20-02.png"
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id-20-02.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id21-00.png"
     ],
     "videoUrl": "",
     "prototype": "",
@@ -392,25 +393,6 @@
     ],
     "scope": "Assistente inteligente 24/7 integrado com seu ERP, capaz de consultar dados em tempo real e executar ações automaticamente",
     "scopeProposal": ""
-  },
-  {
-    "id": 21,
-    "title": "Chatbot de Atendimento no WhatsApp (com Opções)",
-    "tags": ["Atendimento", "Vendas & Marketing", "ERP Consistem"],
-    "product": "ChatBot",
-    "images": [
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id21-00.png"
-    ],
-    "videoUrl": "",
-    "prototype": "",
-    "pains": [
-      "Fila de perguntas repetidas",
-      "Tempo de resposta alto",
-      "Equipe sobrecarregada",
-      "Custo para atender fora do horário"
-    ],
-    "scope": "Responde o cliente, representante ou internos em 24/7 no WhatsApp.",
-    "scopeProposal": "Assistente para dúvidas frequentes, informações técnicas e encaminhamentos, com histórico e relatórios."
   },
   {
     "id": 16,
