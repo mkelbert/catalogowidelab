@@ -375,24 +375,23 @@
   },
   {
     "id": 15,
-    "title": "Atendimento no WhatsApp (com IA)",
+    "title": "Agente no WhatsApp",
     "tags": ["Atendimento", "Vendas & Marketing", "Inteligência Artificial"],
     "product": "ChatBot",
     "images": [
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id-20-00.png",
       "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id-20-01.png",
       "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id-20-02.png"
     ],
     "videoUrl": "",
     "prototype": "",
     "pains": [
-      "Fila de perguntas repetidas",
-      "Tempo de resposta alto",
-      "Equipe sobrecarregada",
-      "Custo para atender fora do horário"
+      "Atualiza cliente, entrega nota, boleto",
+      "Dúvida técnica sobre produto",
+      "Representante quer saber estoque",
+      "Conecta Whatsapp do caminhoneiro com ERP (Canhoto, MDFE)",
     ],
-    "scope": "Responde o cliente, representante ou internos em 24/7 no WhatsApp.",
-    "scopeProposal": "Assistente inteligente para dúvidas frequentes, informações técnicas e encaminhamentos, com histórico e relatórios."
+    "scope": "Assistente inteligente 24/7 integrado com seu ERP, capaz de consultar dados em tempo real e executar ações automaticamente",
+    "scopeProposal": ""
   },
   {
     "id": 21,
