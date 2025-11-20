@@ -502,6 +502,28 @@
   ],
   "scope": "Desenvolvimento de uma plataforma de força de vendas totalmente customizada, onde representantes podem acessar, logar, registrar pedidos e acompanhar seu status, adaptada às regras comerciais e processos específicos de cada cliente.",
   "scopeProposal": "Portal personalizado com login individual, gestão de clientes e pedidos, políticas comerciais dinâmicas, integração com ERP, cálculo automático de descontos, histórico de vendas. Foco em simplificar o processo de venda e garantir aderência total ao modelo de negócio do cliente."
+  },
+
+  {
+    "id": 23,
+    "title": "Calculadora de ROI para Automação",
+    "tags": ["Vendas & Marketing", ""],
+    "product": "Automação",
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/11/Catalogo23-id001-scaled.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/11/Catalogo23-id002.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/11/Catalogo23-id003.png"
+    ],
+    "videoUrl": "",
+    "prototype": "https://claude.ai/public/artifacts/74d864a3-7437-4633-8bfe-c75ec430f89a",
+    "pains": [
+        "Dificuldade em demonstrar valor tangível da automação para prospects",
+        "Clientes não enxergam o custo real de processos manuais",
+        "Falta de ferramenta visual para justificar investimento em RPA",
+        "Necessidade de calcular payback e ROI de forma rápida em reuniões comerciais",
+        "Desafio em mostrar economia além do salário base (encargos, 13º, férias)"
+  ],
+  "scope": "Landing page interativa com calculadora de ROI para automação RPA. Permite calcular economia mensal/anual, payback, projeção de 3 anos e breakdown detalhado de custos (salário + encargos + benefícios). Interface minimalista com design premium da marca WIDELAB. Inclui seção educativa sobre benefícios intangíveis da automação (redução de erros, disponibilidade 24/7, compliance, valorização do time, escalabilidade). Totalmente responsiva e pronta para uso em apresentações comerciais.",
+  "scopeProposal": "**Ferramenta Comercial - Calculadora ROI RPA**\n\n**Entradas configuráveis:**\n• Salário mensal do colaborador\n• Horas/dia dedicadas à tarefa repetitiva\n• Número de pessoas envolvidas\n• Investimento inicial em RPA\n• Custo de manutenção mensal\n\n**Cálculos automáticos:**\n• Custo real do colaborador (salário + 33,8% encargos + 13º + férias)\n• Custo/hora trabalhada\n• Economia mensal e anual\n• Payback em meses\n• ROI projetado em 3 anos\n• Comparativo: custo atual vs. custo com RPA\n\n**Diferenciais:**\n• Design premium alinhado à identidade WIDELAB\n• Controles intuitivos (+/-) para ajustes rápidos\n• Seções expansíveis com breakdown detalhado\n• Educação sobre benefícios intangíveis\n• Pronto para uso em reuniões e apresentações\n• Zero configuração técnica necessária\n\n**Resultado:** Ferramenta de conversão que transforma conversas abstratas sobre automação em números concretos e decisões de compra."
   }
-  
 ]
