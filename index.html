@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo Widelab</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+        }
+
+        h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .subtitle {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+
+        .filters {
+            background: white;
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        .filter-group {
+            margin-bottom: 15px;
+        }
+
+        .filter-group label {
+            display: block;
+            font-weight: 600;
+            margin-bottom: 8px;
+            color: #333;
+        }
+
+        .filter-buttons {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .filter-btn {
+            padding: 8px 16px;
+            border: 2px solid #667eea;
+            background: white;
+            color: #667eea;
+            border-radius: 20px;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-size: 0.9em;
+        }
+
+        .filter-btn:hover {
+            background: #667eea;
+            color: white;
+        }
+
+        .filter-btn.active {
+            background: #667eea;
+            color: white;
+        }
+
+        .search-box {
+            width: 100%;
+            padding: 12px 20px;
+            border: 2px solid #e0e0e0;
+            border-radius: 25px;
+            font-size: 1em;
+            transition: border-color 0.3s;
+        }
+
+        .search-box:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .catalog-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 25px;
+        }
+
+        .product-card {
+            background: white;
+            border-radius: 16px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            transition: transform 0.3s, box-shadow 0.3s;
+            cursor: pointer;
+        }
+
+        .product-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 40px rgba(0,0,0,0.3);
+        }
+
+        .product-image {
+            width: 100%;
+            height: 250px;
+            object-fit: cover;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+
+        .product-content {
+            padding: 20px;
+        }
+
+        .product-title {
+            font-size: 1.5em;
+            color: #333;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+
+        .product-type {
+            display: inline-block;
+            padding: 4px 12px;
+            background: #667eea;
+            color: white;
+            border-radius: 12px;
+            font-size: 0.85em;
+            margin-bottom: 12px;
+        }
+
+        .product-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+            margin-bottom: 15px;
+        }
+
+        .tag {
+            padding: 4px 10px;
+            background: #f0f0f0;
+            border-radius: 10px;
+            font-size: 0.8em;
+            color: #666;
+        }
+
+        .product-scope {
+            color: #666;
+            font-size: 0.95em;
+            line-height: 1.5;
+            margin-bottom: 15px;
+        }
+
+        .pains {
+            margin-top: 15px;
+        }
+
+        .pains-title {
+            font-weight: 600;
+            color: #d32f2f;
+            margin-bottom: 8px;
+        }
+
+        .pain-item {
+            font-size: 0.85em;
+            color: #666;
+            padding: 4px 0 4px 16px;
+            position: relative;
+        }
+
+        .pain-item:before {
+            content: "•";
+            position: absolute;
+            left: 0;
+            color: #d32f2f;
+        }
+
+        .product-links {
+            display: flex;
+            gap: 10px;
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 1px solid #e0e0e0;
+        }
+
+        .link-btn {
+            flex: 1;
+            padding: 10px;
+            text-align: center;
+            border-radius: 8px;
+            text-decoration: none;
+            font-size: 0.9em;
+            transition: all 0.3s;
+        }
+
+        .video-btn {
+            background: #ff4444;
+            color: white;
+        }
+
+        .video-btn:hover {
+            background: #cc0000;
+        }
+
+        .prototype-btn {
+            background: #4CAF50;
+            color: white;
+        }
+
+        .prototype-btn:hover {
+            background: #45a049;
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.8);
+            z-index: 1000;
+            padding: 20px;
+            overflow-y: auto;
+        }
+
+        .modal-content {
+            background: white;
+            max-width: 900px;
+            margin: 40px auto;
+            border-radius: 16px;
+            padding: 30px;
+            position: relative;
+        }
+
+        .close-modal {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            font-size: 30px;
+            cursor: pointer;
+            color: #666;
+        }
+
+        .modal-images {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+            margin: 20px 0;
+        }
+
+        .modal-image {
+            width: 100%;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        .no-results {
+            text-align: center;
+            color: white;
+            font-size: 1.5em;
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Catálogo Widelab</h1>
+            <div class="subtitle">Soluções em Tecnologia e Automação</div>
+        </header>
+
+        <div class="filters">
+            <div class="filter-group">
+                <label>Buscar:</label>
+                <input type="text" class="search-box" id="searchBox" placeholder="Digite para buscar...">
+            </div>
+
+            <div class="filter-group">
+                <label>Filtrar por Tipo:</label>
+                <div class="filter-buttons" id="productTypeFilters"></div>
+            </div>
+
+            <div class="filter-group">
+                <label>Filtrar por Tag:</label>
+                <div class="filter-buttons" id="tagFilters"></div>
+            </div>
+        </div>
+
+        <div class="catalog-grid" id="catalogGrid"></div>
+        <div class="no-results" id="noResults" style="display: none;">Nenhum produto encontrado</div>
+    </div>
+
+    <div class="modal" id="productModal">
+        <div class="modal-content">
+            <span class="close-modal" onclick="closeModal()">&times;</span>
+            <div id="modalBody"></div>
+        </div>
+    </div>
+
+    <script>
+        let catalogData = [];
+        let selectedProductType = null;
+        let selectedTag = null;
+
+        async function loadCatalog() {
+            try {
+                const response = await fetch('catalogData.json');
+                catalogData = await response.json();
+                initializeFilters();
+                renderCatalog();
+            } catch (error) {
+                console.error('Erro ao carregar catálogo:', error);
+            }
+        }
+
+        function initializeFilters() {
+            const productTypes = [...new Set(catalogData.map(item => item.product))];
+            const tags = [...new Set(catalogData.flatMap(item => item.tags))];
+
+            const productTypeContainer = document.getElementById('productTypeFilters');
+            productTypeContainer.innerHTML = `
+                <button class="filter-btn active" onclick="filterByProductType(null)">Todos</button>
+                ${productTypes.map(type =>
+                    `<button class="filter-btn" onclick="filterByProductType('${type}')">${type}</button>`
+                ).join('')}
+            `;
+
+            const tagContainer = document.getElementById('tagFilters');
+            tagContainer.innerHTML = `
+                <button class="filter-btn active" onclick="filterByTag(null)">Todas</button>
+                ${tags.map(tag =>
+                    `<button class="filter-btn" onclick="filterByTag('${tag}')">${tag}</button>`
+                ).join('')}
+            `;
+        }
+
+        function filterByProductType(type) {
+            selectedProductType = type;
+            updateActiveFilter('productTypeFilters', type);
+            renderCatalog();
+        }
+
+        function filterByTag(tag) {
+            selectedTag = tag;
+            updateActiveFilter('tagFilters', tag);
+            renderCatalog();
+        }
+
+        function updateActiveFilter(containerId, value) {
+            const container = document.getElementById(containerId);
+            const buttons = container.querySelectorAll('.filter-btn');
+            buttons.forEach(btn => {
+                if ((value === null && btn.textContent === 'Todos') ||
+                    (value === null && btn.textContent === 'Todas') ||
+                    btn.textContent === value) {
+                    btn.classList.add('active');
+                } else {
+                    btn.classList.remove('active');
+                }
+            });
+        }
+
+        function renderCatalog() {
+            const searchTerm = document.getElementById('searchBox').value.toLowerCase();
+
+            let filteredData = catalogData.filter(item => {
+                const matchesSearch = !searchTerm ||
+                    item.title.toLowerCase().includes(searchTerm) ||
+                    item.scope.toLowerCase().includes(searchTerm) ||
+                    item.tags.some(tag => tag.toLowerCase().includes(searchTerm));
+
+                const matchesType = !selectedProductType || item.product === selectedProductType;
+                const matchesTag = !selectedTag || item.tags.includes(selectedTag);
+
+                return matchesSearch && matchesType && matchesTag;
+            });
+
+            const grid = document.getElementById('catalogGrid');
+            const noResults = document.getElementById('noResults');
+
+            if (filteredData.length === 0) {
+                grid.style.display = 'none';
+                noResults.style.display = 'block';
+                return;
+            }
+
+            grid.style.display = 'grid';
+            noResults.style.display = 'none';
+
+            grid.innerHTML = filteredData.map(item => `
+                <div class="product-card" onclick="openModal(${item.id})">
+                    <img src="${item.images[0] || 'https://via.placeholder.com/350x250?text=Sem+Imagem'}"
+                         alt="${item.title}"
+                         class="product-image"
+                         onerror="this.src='https://via.placeholder.com/350x250?text=Sem+Imagem'">
+                    <div class="product-content">
+                        <div class="product-type">${item.product}</div>
+                        <h2 class="product-title">${item.title}</h2>
+                        <div class="product-tags">
+                            ${item.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
+                        </div>
+                        <p class="product-scope">${item.scope}</p>
+                        ${item.pains.length > 0 ? `
+                            <div class="pains">
+                                <div class="pains-title">Dores que resolve:</div>
+                                ${item.pains.slice(0, 2).map(pain =>
+                                    `<div class="pain-item">${pain}</div>`
+                                ).join('')}
+                                ${item.pains.length > 2 ? `<div class="pain-item">+ ${item.pains.length - 2} outras...</div>` : ''}
+                            </div>
+                        ` : ''}
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function openModal(id) {
+            const item = catalogData.find(p => p.id === id);
+            if (!item) return;
+
+            const modal = document.getElementById('productModal');
+            const modalBody = document.getElementById('modalBody');
+
+            modalBody.innerHTML = `
+                <div class="product-type">${item.product}</div>
+                <h2 class="product-title">${item.title}</h2>
+                <div class="product-tags">
+                    ${item.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
+                </div>
+
+                ${item.images.length > 0 ? `
+                    <div class="modal-images">
+                        ${item.images.map(img =>
+                            `<img src="${img}" alt="${item.title}" class="modal-image" onerror="this.style.display='none'">`
+                        ).join('')}
+                    </div>
+                ` : ''}
+
+                <h3>Escopo:</h3>
+                <p>${item.scope}</p>
+
+                ${item.scopeProposal ? `
+                    <h3>Proposta:</h3>
+                    <p>${item.scopeProposal}</p>
+                ` : ''}
+
+                ${item.pains.length > 0 ? `
+                    <div class="pains">
+                        <div class="pains-title">Dores que resolve:</div>
+                        ${item.pains.map(pain => `<div class="pain-item">${pain}</div>`).join('')}
+                    </div>
+                ` : ''}
+
+                <div class="product-links">
+                    ${item.videoUrl ? `<a href="${item.videoUrl}" target="_blank" class="link-btn video-btn">Ver Vídeo</a>` : ''}
+                    ${item.prototype ? `<a href="${item.prototype}" target="_blank" class="link-btn prototype-btn">Ver Protótipo</a>` : ''}
+                </div>
+            `;
+
+            modal.style.display = 'block';
+        }
+
+        function closeModal() {
+            document.getElementById('productModal').style.display = 'none';
+        }
+
+        window.onclick = function(event) {
+            const modal = document.getElementById('productModal');
+            if (event.target === modal) {
+                closeModal();
+            }
+        }
+
+        document.getElementById('searchBox').addEventListener('input', renderCatalog);
+
+        loadCatalog();
+    </script>
+</body>
+</html>
