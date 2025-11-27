@@ -526,6 +526,7 @@
   "scope": "Landing page interativa com calculadora de ROI para automação RPA. Permite calcular economia mensal/anual, payback, projeção de 3 anos e breakdown detalhado de custos (salário + encargos + benefícios). Interface minimalista com design premium da marca WIDELAB. Inclui seção educativa sobre benefícios intangíveis da automação (redução de erros, disponibilidade 24/7, compliance, valorização do time, escalabilidade). Totalmente responsiva e pronta para uso em apresentações comerciais.",
   "scopeProposal": "**Ferramenta Comercial - Calculadora ROI RPA**\n\n**Entradas configuráveis:**\n• Salário mensal do colaborador\n• Horas/dia dedicadas à tarefa repetitiva\n• Número de pessoas envolvidas\n• Investimento inicial em RPA\n• Custo de manutenção mensal\n\n**Cálculos automáticos:**\n• Custo real do colaborador (salário + 33,8% encargos + 13º + férias)\n• Custo/hora trabalhada\n• Economia mensal e anual\n• Payback em meses\n• ROI projetado em 3 anos\n• Comparativo: custo atual vs. custo com RPA\n\n**Diferenciais:**\n• Design premium alinhado à identidade WIDELAB\n• Controles intuitivos (+/-) para ajustes rápidos\n• Seções expansíveis com breakdown detalhado\n• Educação sobre benefícios intangíveis\n• Pronto para uso em reuniões e apresentações\n• Zero configuração técnica necessária\n\n**Resultado:** Ferramenta de conversão que transforma conversas abstratas sobre automação em números concretos e decisões de compra."
   },
+
   {
     "id": 24,
     "title": "Portal do Candidato",
@@ -538,7 +539,7 @@
     "pains": [
         "Portal para o candidato",
         "Integração com ERP",
-        "Agentes de IA",
+        "Agentes de IA"
   ],
   "scope": "",
   "scopeProposal": ""
