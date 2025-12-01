@@ -19,7 +19,31 @@
       "Falta de comunicação, notificações, novidades"
     ],
     "scope": "App mobile para navegação rápida e inteligente em catálogos de produtos.",
-  "scopeProposal": "Permite buscar produtos por nome, código ou foto (IA). Apresenta cards com imagens, descrição e especificações. Ideal para representantes, distribuidores e clientes."
+    "scopeProposal": "Permite buscar produtos por nome, código ou foto (IA). Apresenta cards com imagens, descrição e especificações. Ideal para representantes, distribuidores e clientes."
+  },
+  {
+    "id": 25,
+    "title": "Jaraguá Digital Spot",
+    "tags": ["Turismo", "Cidade Inteligente", "Jaraguá do Sul"],
+    "product": "Portal",
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/jaragua-parque-malwee-01.jpg",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/jaragua-chiesetta-alpina-01.jpg",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/jaragua-centro-historico-01.jpg",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/jaragua-morro-boa-vista-01.jpg",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/jaragua-parque-inovacao-01.jpg",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/jaragua-praca-angelo-piazera-01.jpg"
+    ],
+    "videoUrl": "",
+    "prototype": "https://jaragua-digital-spot.lovable.app/",
+    "pains": [
+      "Turistas e visitantes sem informações centralizadas sobre Jaraguá do Sul",
+      "Dificuldade em encontrar pontos turísticos, eventos e serviços locais",
+      "Falta de conexão digital entre comércio local e visitantes",
+      "Ausência de guia interativo e atualizado da cidade"
+    ],
+    "scope": "Portal digital interativo com informações turísticas, comerciais e culturais de Jaraguá do Sul.",
+    "scopeProposal": "Plataforma que conecta visitantes e moradores aos principais pontos da cidade: Parque Malwee, Chiesetta Alpina, Morro Boa Vista, Parque da Inovação, comércio local, eventos e gastronomia. Inclui mapas interativos, agenda cultural, integração com negócios locais e promoção do turismo regional. Ideal para fortalecer a economia local e posicionar Jaraguá do Sul como destino turístico inteligente."
   },
   {
     "id": 1,
@@ -430,7 +454,7 @@
     "prototype": "https://www.figma.com/proto/XDfyuTdwQXz8cJSlrBo9ae/AMC---Super-App?node-id=694-3643&p=f&t=UjlIg1b5QYLSL9Al-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=32%3A80&show-proto-sidebar=1",
     "pains": [
       "Sem controle de atendimento por vendedor",
-      "Sem status do fluxo da loja d f",
+      "Sem status do fluxo da loja em tempo real",
       "Sem histórico de perdas e motivos"
     ],
     "scope": "Organiza o fluxo da loja e aumenta conversão.",
@@ -503,7 +527,6 @@
   "scope": "Desenvolvimento de uma plataforma de força de vendas totalmente customizada, onde representantes podem acessar, logar, registrar pedidos e acompanhar seu status, adaptada às regras comerciais e processos específicos de cada cliente.",
   "scopeProposal": "Portal personalizado com login individual, gestão de clientes e pedidos, políticas comerciais dinâmicas, integração com ERP, cálculo automático de descontos, histórico de vendas. Foco em simplificar o processo de venda e garantir aderência total ao modelo de negócio do cliente."
   },
-
   {
     "id": 23,
     "title": "Calculadora de ROI para Automação",
