@@ -543,5 +543,50 @@
   ],
   "scope": "",
   "scopeProposal": ""
-  }
+  },
+
+
+
+  {
+    "id": 25,
+    "title": "Remarcação de Preço",
+    "tags": ["Varejo", "Vendas & Marketing"],
+    "product": "Portal",
+    "images": [
+    ],
+    "videoUrl": "",
+    "prototype": "https://chatgpt.com/canvas/shared/691afe9a8c448191a5029a73283ea27e",
+    "pains": [
+        "Relação de preços a serem remarcados",
+        "Controle e impressão",
+        "Impressora Bluetoow"
+  ],
+  "scope": "",
+  "scopeProposal": ""
+  }  ,
+
+
+
+
+
+    {
+    "id": 26,
+    "title": "Portal da Facção",
+    "tags": ["Qualidade"],
+    "product": "Portal",
+    "images": [
+    ],
+    "videoUrl": "",
+    "prototype": "https://claude.ai/public/artifacts/a9e82e06-c117-458b-9e7e-7bdd4ac89277?fullscreen=true",
+    "pains": [
+        "Facilita e centraliza a comunicação",
+        "Fácil acesso",
+  ],
+  "scope": "",
+  "scopeProposal": ""
+  }  
+
+
+
+  
 ]
