@@ -65,7 +65,7 @@
     "pains": [
       "Agentes RPA que simulam o processo de conciliação e baixas financeiras",
       "Alto volume que gera sobrecarga e retrabalho",
-      "Processo repetitivo e propenso a erros",
+      "Processo repetitivo e propenso a erros"
     ],
     "scope": "Automatiza o processo de baixa financeira, desde a busca dos lançamentos até a conciliação, eliminando a intervenção manual.",
     "scopeProposal": "O robô acessa os extratos bancários, identifica os créditos recebidos e aplica regras definidas (como antecipações, taxas ou portadores específicos). Em seguida, realiza a baixa automática no ERP, sem depender de digitação humana."
