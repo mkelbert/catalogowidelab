@@ -41,48 +41,11 @@
     "Registros da coleta e entrega",
     "Seguro para quem pede",
     "Fácil para quem transporta",
-    "* Jaraguá do Sul/SC e Região. Integrado com EnvieBOX - Entregas Inteligentes",
+    "* Jaraguá do Sul/SC e Região. Integrado com EnvieBOX - Entregas Inteligentes"
     ],
     "scope": "Portal Web com registros de coletas e entregas com os entregadores",
     "scopeProposal": "Criação de entregas com definição de rotas. Gestão centralizada com painel de status, históricos e relatórios por período, rota e ocorrência."
   },
-
-
-
-
-
-
-  
-  {
-    "id": 8000,
-    "title": "Entrega Rápida (Entregador)",
-    "tags": ["Logística"],
-    "product": "APP",
-    "images": [
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-EnvieRapido-App-01.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-EnvieRapido-App-02.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-EnvieRapido-App-04.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-EnvieRapido-App-05.png"
-    ],
-    "videoUrl": "",
-    "prototype": "https://www.figma.com/proto/U9YQaVgWsBvizE12ZL0ZxM/EnvieBox---App?node-id=1-14&p=f&t=nxIp536eAcECthkg-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A14&show-proto-sidebar=1",
-    "pains": [
-      "Motoristas sem sistema próprio para controle de entregas",
-      "Falta de comprovação de entrega (foto, assinatura)",
-      "Demora para receber e comunicar ocorrências",
-      "Segurança"
-    ],
-    "scope": "App para entregadores com GPS, fotos, assinatura e registro de ocorrências.",
-    "scopeProposal": "Motorista acessa suas entregas pelo celular. O app orienta por rota, registra status, coleta assinatura digital e fotos como comprovante. Funciona offline e sincroniza automaticamente depois. Integra direto com o portal da operação."
-  },  
-
-
-
-
-
-
-
-
 
 
 
