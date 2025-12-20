@@ -24,26 +24,27 @@
 
   {
     "id": 8,
-    "title": "Coletas e Entregas Rápidas com Motoboys + Rastreio",
+    "title": "Coleta e Entregas Rápidas",
     "tags": ["Logística"],
     "product": "Portal",
     "images": [
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-EntregaRapida-Portal-01-scaled.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-EntregaRapida-Portal-02-scaled.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-EntregaRapida-Portal-03-scaled.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-EntregaRapida-Portal-04-scaled.png"
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo08_01-scaled.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo08_03.png-scaled.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo08_04.png-scaled.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo08_05.png-scaled.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo08_06.png-scaled.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo08_09.png-scaled.png"
     ],
     "videoUrl": "",
     "prototype": "",
     "pains": [
-    "Falta de visibilidade da rota em tempo real",
-    "Pagamentos feitos sem comprovação de entrega",
-    "Ausência de histórico e evidências",
-    "Demora na comunicação de problemas",
-    "Riscos e falhas de segurança em campo"
+    "Registros da coleta e entrega",
+    "Seguro para quem pede",
+    "Fácil para quem transporta",
+    "* Jaraguá do Sul/SC e Região. Integrado com EnvieBOX - Entregas Inteligentes",
     ],
-    "scope": "Portal web para controle total das entregas e coletas da empresa. * Motoboy Próprio / * Integração com ENVIEBOX ",
-    "scopeProposal": "Portal - Criação de entregas com definição de rotas, unidades e motoristas. Gestão centralizada com painel de status, históricos e relatórios por período, rota e ocorrência."
+    "scope": "Portal Web com registros de coletas e entregas com os entregadores",
+    "scopeProposal": "Criação de entregas com definição de rotas. Gestão centralizada com painel de status, históricos e relatórios por período, rota e ocorrência."
   },
 
 
