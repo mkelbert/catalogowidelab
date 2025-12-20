@@ -1,26 +1,28 @@
 [
   {
     "id": 10,
-    "title": "Catálogo Digital com IA (Busca Rápida)",
+    "title": "Seu catálogo digital com IA",
     "tags": ["Inteligência Artificial", "Vendas & Marketing"],
     "product": "APP",
     "images": [
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catakigo-QuickFind-Ap00.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catakigo-QuickFind-Ap01.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catakigo-QuickFind-Ap01a.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catakigo-QuickFind-Ap02.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catakigo-QuickFind-Ap02a.png"
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/fotoCatalogo-01-Grande.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/fotoCatalogo-02-Grande.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/fotoCatalogo-03-Grande.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/fotoCatalogo-04-Grande.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/fotoCatalogo-05.png"
     ],
-    "videoUrl": "https://drive.google.com/file/d/1sjJle522iSYXmji9BJi1MTlOwsWcm9bs/view?usp=sharing",
-    "prototype": "https://www.figma.com/proto/ibifJS92scpb61GmtL0hMe/Widelab---QuickFind?page-id=0%3A1&node-id=58-1538&node-type=canvas&viewport=829%2C394%2C0.03&t=Y7LCTdSDoovQXJW7-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=58%3A1538&show-proto-sidebar=1",
+    "videoUrl": "https://youtube.com/shorts/dPH6plE1QSY?feature=share",
     "pains": [
-      "Dificuldade em encontrar o produto ou semelhantes",
-      "Catálogo desatualizado ou apenas fisico",
-      "Falta de comunicação, notificações, novidades"
+      "Seu catálogo de forma simples e fácil",
+      "Mantenha atualizado",
+      "Comunicação Centralizada"
     ],
-    "scope": "App mobile para navegação rápida e inteligente em catálogos de produtos.",
-  "scopeProposal": "Permite buscar produtos por nome, código ou foto (IA). Apresenta cards com imagens, descrição e especificações. Ideal para representantes, distribuidores e clientes."
+    "scope": "App mobile com navegação rápida e inteligente em catálogo de produtos.",
+    "scopeProposal": "Permite buscar produtos por nome, código ou foto da câmera e semelhança (IA). Apresenta produtos com imagens, descrição e especificações. Ideal para representantes, distribuidores e clientes."
   },
+
+  
+
   {
     "id": 1,
     "title": "Entrada de Notas Automática",
