@@ -1,7 +1,7 @@
 [
   {
     "id": 10,
-    "title": "Seu catálogo digital com IA",
+    "title": "Seu Catálogo Digital (com IA)",
     "tags": ["Inteligência Artificial", "Vendas & Marketing"],
     "product": "APP",
     "images": [
@@ -24,7 +24,7 @@
 
   {
     "id": 8,
-    "title": "Coleta e Entregas Rápidas",
+    "title": "Ofereça e gerencie coletas e Entregas Rápidas",
     "tags": ["Logística"],
     "product": "Portal",
     "images": [
@@ -48,6 +48,14 @@
     "scope": "Portal Web com registros de coletas e entregas com os entregadores",
     "scopeProposal": "Criação de entregas com definição de rotas. Gestão centralizada com painel de status, históricos e relatórios por período, rota e ocorrência."
   },
+
+
+
+
+
+
+
+
 
 
 
