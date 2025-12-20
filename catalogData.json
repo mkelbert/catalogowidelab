@@ -20,8 +20,6 @@
     "scope": "App mobile com navegação rápida e inteligente em catálogo de produtos.",
     "scopeProposal": "Permite buscar produtos por nome, código ou foto da câmera e semelhança (IA). Apresenta produtos com imagens, descrição e especificações. Ideal para representantes, distribuidores e clientes."
   },
-
-
   {
     "id": 8,
     "title": "Ofereça, gerencie Coletas e Entregas Rápidas",
@@ -48,10 +46,7 @@
     "scope": "Portal Web com registros de coletas e entregas com os entregadores",
     "scopeProposal": "Criação de entregas com definição de rotas. Gestão centralizada com painel de status, históricos e relatórios por período, rota e ocorrência."
   },
-
-
-
-    {
+  {
     "id": 2,
     "title": "Agente de Conciliação e Baixa de Recebimentos (Contas a Receber)",
     "tags": ["Fiscal & Financeiro", "ERP Consistem"],
@@ -74,12 +69,7 @@
 
 
 
-
   
-
-
-
-
 
 
 
