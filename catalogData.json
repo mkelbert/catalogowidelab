@@ -373,9 +373,10 @@
     "scope": "Venda online com assentos e rotas.",
     "scopeProposal": "Seleção de assento, rotas/horários, check-in, filmes, relatórios, pesquisas e outros."
   },
+
   {
     "id": 15,
-    "title": "Chabot / Agente no WhatsApp",
+    "title": "Chabot com Opções",
     "tags": ["Atendimento", "Vendas & Marketing", "Inteligência Artificial"],
     "product": "Automação",
     "images": [
@@ -394,6 +395,59 @@
     "scope": "Assistente inteligente 24/7 integrado com seu ERP, capaz de consultar dados em tempo real e executar ações automaticamente",
     "scopeProposal": ""
   },
+
+
+
+
+    {
+    "id": 15902,
+    "title": "Atendtimento no WhatsApp",
+    "tags": ["Atendimento", "Vendas & Marketing", "Inteligência Artificial"],
+    "product": "Automação",
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id-20-01.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id-20-02.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id21-00.png"
+    ],
+    "videoUrl": "",
+    "prototype": "https://web.whatsapp.com/send?phone=554788630992&text=Ol%C3%A1,%20quem%20%C3%A9%20voc%C3%AA?%20quais%20produtos%20voc%C3%AAs%20vendem?",
+    "pains": [
+      "Atualiza cliente, entrega nota, boleto",
+      "Dúvida técnica sobre produto",
+      "Representante quer saber estoque",
+      "Conecta Whatsapp do caminhoneiro com ERP (Canhoto, MDFE)"
+    ],
+    "scope": "Assistente inteligente 24/7 integrado com seu ERP, capaz de consultar dados em tempo real e executar ações automaticamente",
+    "scopeProposal": ""
+  },
+
+
+
+  {
+    "id": 15900,
+    "title": "Agente",
+    "tags": ["Atendimento", "Vendas & Marketing", "Inteligência Artificial"],
+    "product": "Automação",
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id-20-01.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id-20-02.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id21-00.png"
+    ],
+    "videoUrl": "",
+    "prototype": "https://web.whatsapp.com/send?phone=554788630992&text=Ol%C3%A1,%20quem%20%C3%A9%20voc%C3%AA?%20quais%20produtos%20voc%C3%AAs%20vendem?",
+    "pains": [
+      "Atualiza cliente, entrega nota, boleto",
+      "Dúvida técnica sobre produto",
+      "Representante quer saber estoque",
+      "Conecta Whatsapp do caminhoneiro com ERP (Canhoto, MDFE)"
+    ],
+    "scope": "Assistente inteligente 24/7 integrado com seu ERP, capaz de consultar dados em tempo real e executar ações automaticamente",
+    "scopeProposal": ""
+  },  
+  
+  
+  
+  
   {
     "id": 16,
     "title": "Consignado (Malinha)",
