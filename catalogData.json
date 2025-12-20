@@ -21,6 +21,71 @@
     "scopeProposal": "Permite buscar produtos por nome, código ou foto da câmera e semelhança (IA). Apresenta produtos com imagens, descrição e especificações. Ideal para representantes, distribuidores e clientes."
   },
 
+
+  {
+    "id": 8,
+    "title": "Coletas e Entregas Rápidas com Motoboys + Rastreio",
+    "tags": ["Logística"],
+    "product": "Portal",
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-EntregaRapida-Portal-01-scaled.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-EntregaRapida-Portal-02-scaled.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-EntregaRapida-Portal-03-scaled.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-EntregaRapida-Portal-04-scaled.png"
+    ],
+    "videoUrl": "",
+    "prototype": "",
+    "pains": [
+    "Falta de visibilidade da rota em tempo real",
+    "Pagamentos feitos sem comprovação de entrega",
+    "Ausência de histórico e evidências",
+    "Demora na comunicação de problemas",
+    "Riscos e falhas de segurança em campo"
+    ],
+    "scope": "Portal web para controle total das entregas e coletas da empresa. * Motoboy Próprio / * Integração com ENVIEBOX ",
+    "scopeProposal": "Portal - Criação de entregas com definição de rotas, unidades e motoristas. Gestão centralizada com painel de status, históricos e relatórios por período, rota e ocorrência."
+  },
+
+
+
+
+
+
+  
+  {
+    "id": 8000,
+    "title": "Entrega Rápida (Entregador)",
+    "tags": ["Logística"],
+    "product": "APP",
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-EnvieRapido-App-01.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-EnvieRapido-App-02.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-EnvieRapido-App-04.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-EnvieRapido-App-05.png"
+    ],
+    "videoUrl": "",
+    "prototype": "https://www.figma.com/proto/U9YQaVgWsBvizE12ZL0ZxM/EnvieBox---App?node-id=1-14&p=f&t=nxIp536eAcECthkg-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A14&show-proto-sidebar=1",
+    "pains": [
+      "Motoristas sem sistema próprio para controle de entregas",
+      "Falta de comprovação de entrega (foto, assinatura)",
+      "Demora para receber e comunicar ocorrências",
+      "Segurança"
+    ],
+    "scope": "App para entregadores com GPS, fotos, assinatura e registro de ocorrências.",
+    "scopeProposal": "Motorista acessa suas entregas pelo celular. O app orienta por rota, registra status, coleta assinatura digital e fotos como comprovante. Funciona offline e sincroniza automaticamente depois. Integra direto com o portal da operação."
+  },  
+
+
+
+
+
+
+
+
+
+
+
+
   
 
   {
@@ -180,51 +245,7 @@
     "scope": "App nativo + versão Web para entregar treinamentos adaptados a dispositivos móveis, com trilhas, avaliações e rastreamento de progresso.",
     "scopeProposal": "Usuários acessam o conteúdo via app ou navegador: consomem vídeos, textos ou áudios; respondem quizzes; ganham certificados."
   },
-  {
-    "id": 8,
-    "title": "Entrega Rápida",
-    "tags": ["Logística"],
-    "product": "Portal",
-    "images": [
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-EntregaRapida-Portal-01-scaled.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-EntregaRapida-Portal-02-scaled.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-EntregaRapida-Portal-03-scaled.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-EntregaRapida-Portal-04-scaled.png"
-    ],
-    "videoUrl": "",
-    "prototype": "",
-    "pains": [
-    "Falta de visibilidade da rota em tempo real",
-    "Pagamentos feitos sem comprovação de entrega",
-    "Ausência de histórico e evidências",
-    "Demora na comunicação de problemas",
-    "Riscos e falhas de segurança em campo"
-    ],
-    "scope": "Portal web para controle total das entregas e coletas da empresa. * Motoboy Próprio / * Integração com ENVIEBOX ",
-    "scopeProposal": "Portal - Criação de entregas com definição de rotas, unidades e motoristas. Gestão centralizada com painel de status, históricos e relatórios por período, rota e ocorrência."
-  },
-  {
-    "id": 8000,
-    "title": "Entrega Rápida (Entregador)",
-    "tags": ["Logística"],
-    "product": "APP",
-    "images": [
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-EnvieRapido-App-01.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-EnvieRapido-App-02.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-EnvieRapido-App-04.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-EnvieRapido-App-05.png"
-    ],
-    "videoUrl": "",
-    "prototype": "https://www.figma.com/proto/U9YQaVgWsBvizE12ZL0ZxM/EnvieBox---App?node-id=1-14&p=f&t=nxIp536eAcECthkg-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A14&show-proto-sidebar=1",
-    "pains": [
-      "Motoristas sem sistema próprio para controle de entregas",
-      "Falta de comprovação de entrega (foto, assinatura)",
-      "Demora para receber e comunicar ocorrências",
-      "Segurança"
-    ],
-    "scope": "App para entregadores com GPS, fotos, assinatura e registro de ocorrências.",
-    "scopeProposal": "Motorista acessa suas entregas pelo celular. O app orienta por rota, registra status, coleta assinatura digital e fotos como comprovante. Funciona offline e sincroniza automaticamente depois. Integra direto com o portal da operação."
-  },
+
   {
     "id": 9,
     "title": "Assistência Técnica",
