@@ -51,6 +51,31 @@
 
 
 
+    {
+    "id": 2,
+    "title": "Agente de Conciliação e Baixa de Recebimentos (Contas a Receber)",
+    "tags": ["Fiscal & Financeiro", "ERP Consistem"],
+    "product": "Automação",
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo02_01.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo02_02.png.png"
+    ],
+    "videoUrl": "https://www.youtube.com/shorts/-8R2lZN7YWs",
+    "prototype": "https://drive.google.com/file/d/1R0L-nqPV-IyjrskG3lcB7lUGKlquEGEW/view?usp=sharing",
+    "pains": [
+      "Agentes RPA que simulam o processo de conciliação e baixas financeiras",
+      "Alto volume que gera sobrecarga e retrabalho",
+      "Processo repetitivo e propenso a erros",
+    ],
+    "scope": "Automatiza o processo de baixa financeira, desde a busca dos lançamentos até a conciliação, eliminando a intervenção manual.",
+    "scopeProposal": "O robô acessa os extratos bancários, identifica os créditos recebidos e aplica regras definidas (como antecipações, taxas ou portadores específicos). Em seguida, realiza a baixa automática no ERP, sem depender de digitação humana."
+  },
+
+
+
+
+
+  
 
 
 
@@ -81,23 +106,7 @@
     "scope": "Automatiza o lançamento de notas fiscais no ERP, preenchendo campos obrigatórios com precisão e eliminando retrabalho. Ideal para entradas, retornos e operações com terceiros.",
     "scopeProposal": "Um robô inteligente lê, confere e lança automaticamente as notas fiscais no ERP Consistem. O sistema garante que os dados estejam corretos antes do envio, acelerando o processo e evitando erros que geram custos."
   },
-  {
-    "id": 2,
-    "title": "Baixa Títulos com base em Lançamentos Bancários",
-    "tags": ["Fiscal & Financeiro", "ERP Consistem"],
-    "product": "Automação",
-    "images": [],
-    "videoUrl": "https://www.youtube.com/shorts/-8R2lZN7YWs",
-    "prototype": "https://drive.google.com/file/d/1R0L-nqPV-IyjrskG3lcB7lUGKlquEGEW/view?usp=sharing",
-    "pains": [
-      "Horas diárias gastas em conciliação bancária manual",
-      "Alto volume de títulos a baixar gera sobrecarga e retrabalho",
-      "Processo repetitivo, cansativo e propenso a erros",
-      "Equipe precisa crescer à medida que o volume aumenta"
-    ],
-    "scope": "Automatiza o processo de baixa financeira no ERP, desde a busca dos lançamentos até a conciliação, eliminando a intervenção manual.",
-    "scopeProposal": "O robô acessa os extratos bancários, identifica os créditos recebidos e aplica regras definidas (como antecipações, taxas ou portadores específicos). Em seguida, realiza a baixa automática no ERP, sem depender de digitação humana."
-  },
+
   {
     "id": 3,
     "title": "Análise de Crédito Automática",
