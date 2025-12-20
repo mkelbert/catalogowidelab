@@ -66,14 +66,30 @@
     "scope": "Automatiza o processo de baixa financeira, desde a busca dos lançamentos até a conciliação, eliminando a intervenção manual.",
     "scopeProposal": "O robô acessa os extratos bancários, identifica os créditos recebidos e aplica regras definidas (como antecipações, taxas ou portadores específicos). Em seguida, realiza a baixa automática no ERP, sem depender de digitação humana."
   },
-
-
-
-
-  
-
-
-
+  {
+    "id": 9,
+    "title": "Assistência Técnica",
+    "tags": ["Atendimento", "Assistência", "ERP Consistem"],
+    "product": "Portal",
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo09_00a.png.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo09_00b.png.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo09_01.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo09_02.png.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo02_03.png",
+    ],
+    "videoUrl": "",
+    "prototype": "",
+    "pains": [
+      "Informação para quem está no campo, na montagem, na assistência",
+      "Não leva trabalho para casa",
+      "Registra informações e realiza processos de check-list",
+      "Integra com ERP Consistem e qualquer outra API",
+      "Dados e informação do campo"
+    ],
+    "scope": "Painel de gestão das assistências técnicas da empresa, com dados em tempo real.",
+    "scopeProposal": "Gestores abrem atendimentos e acompanham em tempo real status, horas apontadas, evidências e assinatura do cliente. Integra com o módulo ASTEC do ERP Consistem, eliminando lançamentos manuais."
+  }
 
 
   
@@ -220,47 +236,7 @@
     "scopeProposal": "Usuários acessam o conteúdo via app ou navegador: consomem vídeos, textos ou áudios; respondem quizzes; ganham certificados."
   },
 
-  {
-    "id": 9,
-    "title": "Assistência Técnica",
-    "tags": ["Atendimento", "Assistência", "ERP Consistem"],
-    "product": "Portal",
-    "images": [],
-    "videoUrl": "",
-    "prototype": "",
-    "pains": [
-      "Falta de visibilidade sobre atendimentos em campo",
-      "Dificuldade para cobrar sem evidências formais",
-      "Retrabalho para lançar papéis e preencher sistema depois",
-      "Ausência de histórico centralizado de assistências"
-    ],
-    "scope": "Painel de gestão das assistências técnicas da empresa, com dados em tempo real.",
-    "scopeProposal": "Gestores abrem atendimentos e acompanham em tempo real status, horas apontadas, evidências e assinatura do cliente. Integra com o módulo ASTEC do ERP Consistem, eliminando lançamentos manuais."
-  },
-  {
-    "id": 9000,
-    "title": "Assistência Técnica",
-    "tags": ["Atendimento", "Assistência", "ERP Consistem"],
-    "product": "APP",
-    "images": [
-       "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Astec-Ap01.png",
-       "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Astec-Ap02.png",
-       "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Astec-Ap03.png",
-       "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Astec-Ap04.png",
-       "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Astec-Ap05.png"
-    ],
-    "videoUrl": "",
-    "prototype": "https://www.figma.com/proto/Tkp6WlQp1Nk34ruFIl62bG/WD---App-Assist%C3%AAncia-T%C3%A9cnica?node-id=15-1720&p=f&t=W58Xn6EEzM7pzqjs-0&scaling=scale-down&content-scaling=fixed&page-id=15%3A1719&starting-point-node-id=15%3A1720",
-    "pains": [
-      "Sem informação no campo",
-      "Preenchimento manual em papel gera retrabalho à noite",
-      "Falta de padronização nas visitas técnicas",
-      "Perda de tempo para entregar relatórios depois",
-      "Sem comprovação para justificar horas ou cobrar"
-    ],
-    "scope": "App para técnicos SAT/OAT executarem e comprovarem os atendimentos em campo.",
-    "scopeProposal": "Técnico acessa os atendimentos no app, mesmo offline. Registra horas trabalhadas, adiciona fotos, coleta assinatura do cliente e sincroniza com o sistema ao voltar à rede. Evita papelada e acelera a cobrança."
-  },
+
   {
     "id": 19,
     "title": "App do Motorista",
