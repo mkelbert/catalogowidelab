@@ -154,8 +154,28 @@
       "scope": "App mobile para motoristas com rastreabilidade ponta a ponta.",
       "scopeProposal": "O motorista visualiza suas rotas, embarques e ordens de entrega diretamente no app. Durante a entrega, registra fotos e status de cada parada. O app funciona offline e sincroniza depois, garantindo controle, agilidade."
   },
-  
-
+  {
+    "id": 7,
+    "title": "Universidade Corporativa",
+    "tags": ["Treinamento"],
+    "product": "Portal",
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo07_00.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo07_01.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo07_02.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo07_03.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo07_04.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo07_05.png"
+    ],
+    "videoUrl": "",
+    "pains": [
+      "Gestão do conhecimento em treinamentos",
+      "Ofereça treinamentos na Web ou App próprio",
+      "Provas e certificações"
+    ],
+    "scope": "Plataforma digital de treinamentos com trilhas estruturadas e certificados, ideal para capacitar equipes de forma escalável e monitorada.",
+    "scopeProposal": "Usuários acessam módulos de aprendizado (vídeo, áudio, texto), respondem questionários, acumulam pontos e recebem certificados. "
+  },
 
 
 
@@ -245,52 +265,6 @@
     "scope": "Ferramenta que padroniza e agiliza a aplicação de logotipo em várias imagens ao mesmo tempo, com controle de qualidade e identidade visual.",
     "scopeProposal": "Via Portal Widelab, o usuário seleciona um lote de imagens e aplica, de forma automatizada, uma marca d’água com controle de posição, tamanho e opacidade. Ideal para publicações em e-commerce, catálogos, apresentações e redes sociais."
   },
-  
-  {
-    "id": 7,
-    "title": "Universidade Corporativa",
-    "tags": ["Treinamento"],
-    "product": "Portal",
-    "images": [
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Universidade-01.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Universidade-02.png"
-    ],
-    "videoUrl": "",
-    "prototype": "https://www.figma.com/proto/DfxSUj2VsMcFYxhbH2Q254/AMC---Conx%C3%A3o-Web?node-id=1-530&p=f&t=tWKmk7tw95uaoqqk-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A530",
-    "pains": [
-      "Dificuldade para treinar equipes distribuídas",
-      "Falta de gestão centralizada do conhecimento",
-      "Ausência de comprovação formal de capacitação",
-      "Pouca visibilidade do progresso individual, por equipe ou unidade"
-    ],
-    "scope": "Plataforma digital (Web) de treinamentos com trilhas estruturadas e certificados, ideal para capacitar equipes de forma escalável e monitorada.",
-    "scopeProposal": "Usuários acessam módulos de aprendizado (vídeo, áudio, texto), respondem questionários, acumulam pontos e recebem certificados. A administração monitora evolução por pessoa, equipe e unidade. Trilhas podem ser configuradas por competência ou função."
-  },
-  {
-    "id": 7000,
-    "title": "Universidade Corporativa",
-    "tags": ["Treinamento"],
-    "product": "APP",
-    "images": [
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Universidade-App-01.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Universidade-App-02.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Universidade-App-03.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Universidade-App-04.png"
-    ],
-    "videoUrl": "",
-    "prototype": "https://www.figma.com/proto/XDfyuTdwQXz8cJSlrBo9ae/AMC---Super-App?node-id=328-1828&p=f&t=xojiLuOQARtRmLqC-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=328%3A1828&show-proto-sidebar=1",
-    "pains": [
-      "Dificuldade para treinar equipes distribuídas",
-      "Falta de gestão centralizada do conhecimento",
-      "Ausência de comprovação formal de capacitação",
-      "Pouca visibilidade do progresso individual, por equipe ou unidade"
-    ],
-    "scope": "App nativo + versão Web para entregar treinamentos adaptados a dispositivos móveis, com trilhas, avaliações e rastreamento de progresso.",
-    "scopeProposal": "Usuários acessam o conteúdo via app ou navegador: consomem vídeos, textos ou áudios; respondem quizzes; ganham certificados."
-  },
-
-
-  
   {
     "id": 11,
     "title": "Cashback e Pontos (Fidelidade)",
