@@ -132,8 +132,6 @@
     "scope": "App de Ecommerce para integrar com a sua plataforma de ecommerce.",
     "scopeProposal": "Banners, catálogo, favoritos, carrinho e checkout ."
   },
-
-  
   {
     "id": 19,
     "title": "App do Motorista",
@@ -151,7 +149,7 @@
       "Organize a rota com coletas e entregas",
       "Conferência de embarques e coletas",
       "Todas informações da rota na palma da mão",
-      "Funciona sem internet",
+      "Funciona sem internet"
     ],
       "scope": "App mobile para motoristas com rastreabilidade ponta a ponta.",
       "scopeProposal": "O motorista visualiza suas rotas, embarques e ordens de entrega diretamente no app. Durante a entrega, registra fotos e status de cada parada. O app funciona offline e sincroniza depois, garantindo controle, agilidade."
