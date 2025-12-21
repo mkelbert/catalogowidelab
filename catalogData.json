@@ -133,7 +133,29 @@
     "scopeProposal": "Banners, catálogo, favoritos, carrinho e checkout ."
   },
 
-
+  
+  {
+    "id": 19,
+    "title": "App do Motorista",
+    "tags": ["Logística", "ERP Consistem"],
+    "product": "APP",
+    "images": [
+        "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo19_00.png",
+        "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo19_01.png",
+        "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo19_02.png",
+        "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo19_03.png"      
+    ],
+    "videoUrl": "",
+    "prototype": "",
+    "pains": [
+      "Organize a rota com coletas e entregas",
+      "Conferência de embarques e coletas",
+      "Todas informações da rota na palma da mão",
+      "Funciona sem internet",
+    ],
+      "scope": "App mobile para motoristas com rastreabilidade ponta a ponta.",
+      "scopeProposal": "O motorista visualiza suas rotas, embarques e ordens de entrega diretamente no app. Durante a entrega, registra fotos e status de cada parada. O app funciona offline e sincroniza depois, garantindo controle, agilidade."
+  },  
   
 
 
@@ -202,29 +224,9 @@
     "scope": "Transforma extratos bancários em lançamentos contábeis automáticos, com padronização e controle.",
     "scopeProposal": "O robô interpreta os extratos, identifica o cliente (via CPF/CNPJ), preenche automaticamente os dados, define a finalidade de cada lançamento e separa os créditos “a identificar” para conciliação futura — tudo sem digitação manual."
   },
-  {
-    "id": 5,
-    "title": "Portal Widelab",
-    "tags": ["ERP Consistem"],
-    "product": "Portal",
-    "images": [
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Portal-Widelab-01-scaled.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Portal-Widelab-02-scaled.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Portal-Widelab-03-scaled.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Portal-Widelab-04-scaled.png"
-    ],
-    "videoUrl": "",
-    "prototype": "",
-    "pains": [
-      "Custo elevado com licenças de novos usuários no ERP",
-      "Soluções desenvolvidas dentro do ERP, difíceis de manter e escalar",
-      "Atualizações do ERP quebram customizações existentes",
-      "Processos ainda rodando via Excel ou papel",
-      "Falta de acesso a dados via API"
-    ],
-    "scope": "Um portal web centralizado, moderno e flexível para acesso seguro a dados, processos e módulos fora do ERP.",
-    "scopeProposal": "O Portal Widelab oferece uma camada independente e integrada para visualização e interação com dados da empresa — sem consumir licenças do ERP. Possui gestão de empresas, usuários, perfis e notificações. Serve de base para módulos sob medida, como catálogos, vendas, logística e treinamentos."
-  },
+
+  
+
   {
     "id": 6,
     "title": "Marca d'Água em Lote",
@@ -245,6 +247,7 @@
     "scope": "Ferramenta que padroniza e agiliza a aplicação de logotipo em várias imagens ao mesmo tempo, com controle de qualidade e identidade visual.",
     "scopeProposal": "Via Portal Widelab, o usuário seleciona um lote de imagens e aplica, de forma automatizada, uma marca d’água com controle de posição, tamanho e opacidade. Ideal para publicações em e-commerce, catálogos, apresentações e redes sociais."
   },
+  
   {
     "id": 7,
     "title": "Universidade Corporativa",
@@ -289,31 +292,7 @@
   },
 
 
-  {
-    "id": 19,
-    "title": "App do Motorista",
-    "tags": ["Logística", "ERP Consistem"],
-    "product": "APP",
-    "images": [
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-AppMotorista-App-01.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-AppMotorista-App-02.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-AppMotorista-App-03.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-AppMotorista-App-04.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-AppMotorista-App-05.png"      
-    ],
-    "videoUrl": "",
-    "prototype": "https://www.figma.com/proto/BotrJL2mhhJaOuBZwbChXm/App-Motorista?node-id=1158-591&p=f&t=4YOyGMu9pPVZIjed-0&scaling=scale-down&content-scaling=fixed&page-id=1133%3A236&starting-point-node-id=1158%3A591",
-    "pains": [
-      "Carregamentos sem controle claro de embarque",
-      "Falta de comprovante digital de entrega",
-      "Motoristas sem acesso à rota e outras informações pertinentes",
-      "Sem status online das entregas para o time interno",
-      "Demora na conferência e liberação de mercadorias",
-      "Desembarques errados por falta de informação e rastreio"
-    ],
-      "scope": "App mobile para motoristas com rastreabilidade ponta a ponta.",
-      "scopeProposal": "O motorista visualiza suas rotas, embarques e ordens de entrega diretamente no app. Durante a entrega, registra fotos, assinatura do cliente e status de cada parada. O app funciona offline e sincroniza depois, garantindo controle, agilidade e integração com o ERP Consistem e o Portal Widelab."
-  },
+  
   {
     "id": 11,
     "title": "Cashback e Pontos (Fidelidade)",
