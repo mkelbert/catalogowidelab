@@ -176,6 +176,29 @@
     "scope": "Plataforma digital de treinamentos com trilhas estruturadas e certificados, ideal para capacitar equipes de forma escalável e monitorada.",
     "scopeProposal": "Usuários acessam módulos de aprendizado (vídeo, áudio, texto), respondem questionários, acumulam pontos e recebem certificados. "
   },
+  {
+    "id": 25,
+    "title": "Remarcação de Preço",
+    "tags": ["Varejo", "Vendas & Marketing"],
+    "product": "Portal",
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo25_03.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo25_01.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo25_00.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo25_04.png"
+      
+    ],
+    "videoUrl": "",
+    "prototype": "",
+    "pains": [
+        "Relação de preços a serem remarcados",
+        "Controle e impressão",
+        "Impressora Bluetoow"
+  ],
+  "scope": "Solução Mobile para apoio em remarcação de preços de produos para o varejo",
+  "scopeProposal": "Solução Mobile para ser integrada ao seu sistema de loja, ERP para receber uma lista de preços a serem remarcadas e apoiar na impressão e gestão das novas etiquetas."
+  }  
+
 
 
 
@@ -184,8 +207,15 @@
 
   
 
+
+
   
 
+  
+
+
+  
+  
   {
     "id": 1,
     "title": "Entrada de Notas Automática",
@@ -554,23 +584,6 @@
 
 
 
-  {
-    "id": 25,
-    "title": "Remarcação de Preço",
-    "tags": ["Varejo", "Vendas & Marketing"],
-    "product": "Portal",
-    "images": [
-    ],
-    "videoUrl": "",
-    "prototype": "https://chatgpt.com/canvas/shared/691afe9a8c448191a5029a73283ea27e",
-    "pains": [
-        "Relação de preços a serem remarcados",
-        "Controle e impressão",
-        "Impressora Bluetoow"
-  ],
-  "scope": "",
-  "scopeProposal": ""
-  }  
 
 
 
