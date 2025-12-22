@@ -197,8 +197,29 @@
   "scope": "Solução Mobile para apoio em remarcação de preços de produos para o varejo",
   "scopeProposal": "Solução Mobile para ser integrada ao seu sistema de loja, ERP para receber uma lista de preços a serem remarcadas e apoiar na impressão e gestão das novas etiquetas."
   },
-
-
+  {
+    "id": 26,
+    "title": "Prateleira Infinita",
+    "tags": ["Varejo", "Vendas & Marketing"],
+    "product": "APP",
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo26_02.png.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo26_00.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo26_02.png.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo26_03.png.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo26_04.png.png"
+    ],
+    "videoUrl": "",
+    "prototype": "",
+    "pains": [
+        "Transforma seleção de produtos em link de carrinho virtual",
+        "Novo canal de venda para seu vendedor",
+        "Entrega métricas de vendas"
+  ],
+  "scope": "App para vendedor montar links com produtos para encaminhar para clientes finais.",
+  "scopeProposal": "App para ser integrado com seu varejo, ERP para seu vendedor não depender apenas de clientes que entram na loja."
+  },
+  
 
 
 
@@ -539,6 +560,7 @@
   "scope": "Desenvolvimento de uma plataforma de força de vendas totalmente customizada, onde representantes podem acessar, logar, registrar pedidos e acompanhar seu status, adaptada às regras comerciais e processos específicos de cada cliente.",
   "scopeProposal": "Portal personalizado com login individual, gestão de clientes e pedidos, políticas comerciais dinâmicas, integração com ERP, cálculo automático de descontos, histórico de vendas. Foco em simplificar o processo de venda e garantir aderência total ao modelo de negócio do cliente."
   },
+
 
   {
     "id": 23,
