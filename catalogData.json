@@ -219,8 +219,6 @@
   "scope": "App para vendedor montar links com produtos para encaminhar para clientes finais.",
   "scopeProposal": "App para ser integrado com seu varejo, ERP para seu vendedor não depender apenas de clientes que entram na loja."
   },
-
-
   {
     "id": 20,
     "title": "Gerencie suas Vitrines",
@@ -243,7 +241,7 @@
     ],
     "scope": "Centraliza a gestão de vitrines e campanhas em um único app, conectando indústria e lojistas com dados, histórico e controle.",
     "scopeProposal": "Agendamento e aprovação de vitrines pela indústria, envio de fotos e informações pelo lojista, acompanhamento em tempo real."
-  },    
+  }
 
 
   
