@@ -218,6 +218,33 @@
   ],
   "scope": "App para vendedor montar links com produtos para encaminhar para clientes finais.",
   "scopeProposal": "App para ser integrado com seu varejo, ERP para seu vendedor não depender apenas de clientes que entram na loja."
-  }
+  },
+
+
+  {
+    "id": 20,
+    "title": "Gerencie suas Vitrines",
+    "tags": ["Varejo", "Vendas & Marketing", "Inteligência Artificial"],
+    "product": "APP",
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo20_00.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo20_01.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo20_02.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo20_04.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo20_05.png"
+    ],
+    "videoUrl": "",
+    "prototype": "",
+    "pains": [
+      "Defina campanhas de vitrines e cronogramas",
+      "Centralize a comunicação em um App",
+      "Crie um catálogo com as fotos das vitrines de todas as lojas",
+      "Use IA para análise e sugestões",
+    ],
+    "scope": "Centraliza a gestão de vitrines e campanhas em um único app, conectando indústria e lojistas com dados, histórico e controle.",
+    "scopeProposal": "Agendamento e aprovação de vitrines pela indústria, envio de fotos e informações pelo lojista, acompanhamento em tempo real."
+  },    
+
+
   
 ]
