@@ -15,14 +15,15 @@
     "pains": [
       "Seu catálogo de forma simples e fácil",
       "Sempre atualizado",
-      "Comunicação centralizada"
+      "Comunicação centralizada",
+      "Inteligência artificial para busca por câmera e semelhança"
     ],
     "scope": "App mobile com navegação rápida e inteligente em catálogo de produtos.",
     "scopeProposal": "Permite buscar produtos por nome, código ou foto da câmera e semelhança (IA). Apresenta produtos com imagens, descrição e especificações. Ideal para representantes, distribuidores e clientes."
   },
   {
     "id": 8,
-    "title": "Ofereça, gerencie Coletas e Entregas Rápidas",
+    "title": "Ofereça, Gerencie Coletas e Entregas Rápidas",
     "tags": ["Logística"],
     "product": "Portal",
     "images": [
