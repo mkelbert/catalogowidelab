@@ -267,7 +267,31 @@
   ],
   "scope": "Plataforma de força de vendas totalmente customizada, onde representantes podem acessar, logar, registrar pedidos e acompanhar seu status, adaptada às regras comerciais e processos específicos de cada cliente.",
   "scopeProposal": "Portal personalizado com login individual, gestão de clientes e pedidos, políticas comerciais dinâmicas, integração com ERP,. Foco em simplificar o processo de venda."
+  },  
+  {
+    "id": 14,
+    "title": "Plataforma de Venda de Passagens e Ingressos B2C",
+    "tags": ["Vendas & Marketing", "Logística"],
+    "product": "Portal",
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo14_001.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo14_002.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo14_003.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo14_004.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo14_005.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo14_006.png"
+    ],
+    "videoUrl": "",
+    "prototype": "",
+    "pains": [
+      "Venda de passagens, ingressos B2C",
+      "Reserva de banco e assentos",
+      "Recursos de Pesquisa de satisfação, cashback, filmes.",
+      "Comunicação centralizada",
+      "Check Out"
+    ],
+    "scope": "Plataforma completa com APP para Venda online com assentos e rotas.",
+    "scopeProposal": "Seleção de assento, rotas/horários, check-in, filmes, relatórios, pesquisas e outros."
   }  
-
   
 ]
