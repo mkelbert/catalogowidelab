@@ -284,5 +284,27 @@
     ],
     "scope": "Plataforma completa para venda de passagens e ingressos.",
     "scopeProposal": "Cliente acessa, escolhe rota ou evento, seleciona assento, paga. Recebe ingresso digital, faz check-in no app. Você vende 24/7 sem guichê."
-  }
+  },
+{
+  "id": 24,
+  "title": "Suas Vagas Preenchidas com Menos Esforço",
+  "tags": ["RH", "ERP Consistem", "Inteligência Artificial"],
+  "product": "APP",
+  "images": [
+    "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo24_001.app_.png",
+    "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo24_002.app_.png",
+    "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo24_003.app_.png",
+    "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo24_004.app_.png"
+  ],
+  "videoUrl": "",
+  "prototype": "https://pro-vagas.lovable.app/",
+  "pains": [
+    "Candidato se cadastra e acompanha sozinho",
+    "RH vê tudo integrado ao ERP",
+    "IA faz triagem e agenda entrevistas por WhatsApp"
+  ],
+  "scope": "App que conecta candidato, RH e automações num lugar só.",
+  "scopeProposal": "Candidato vê vagas, preenche currículo e acompanha status. RH recebe tudo organizado no sistema. Add-ons de IA fazem triagem, agendam entrevistas e enriquecem dados automaticamente."
+}  
+ 
 ]
