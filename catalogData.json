@@ -65,6 +65,24 @@
     "scope": "Robô que faz baixa financeira automática no seu ERP.",
     "scopeProposal": "Conecta no banco, lê extratos, aplica suas regras, baixa no Consistem. 4 horas por dia devolvidas pro seu time."
   },
+{
+  "id": 1,
+  "title": "Suas Notas Lançadas sem Digitar",
+  "tags": ["Fiscal & Financeiro", "ERP Consistem"],
+  "product": "Automação",
+  "images": [
+    "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Entrada-de-Notas-Automatica-01.png"
+  ],
+  "videoUrl": "",
+  "prototype": "",
+  "pains": [
+    "Robô lê, confere e lança a nota sozinho",
+    "Zero erro de digitação ou imposto errado",
+    "Funciona 24h, escala sem contratar"
+  ],
+  "scope": "Robô que lança notas fiscais automaticamente no seu ERP.",
+  "scopeProposal": "XML chega, robô lê, valida impostos, preenche campos e lança no Consistem. Entradas, retornos, terceiros. Você só aprova exceções."
+},
   {
     "id": 9,
     "title": "Sua Assistência Técnica Sob Controle Total",
