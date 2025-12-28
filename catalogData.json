@@ -344,6 +344,28 @@
   ],
   "scope": "App para inspeção de qualidade em fornecedores e produção externa.",
   "scopeProposal": "Inspetor acessa ordem, segue checklist, registra fotos e apontamentos. Você acompanha em tempo real por fornecedor, lote e ordem. Falhas aparecem na hora, não no recebimento."
-}  
- 
+} ,
+
+
+
+  
+{
+  "id": 99,
+  "title": "Não Achou o Seu? A Gente Desenha",
+  "tags": ["Sob Medida"],
+  "product":  "Portal", "APP",
+  "images": [
+    "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Portal-Widelab-01-scaled.png"
+  ],
+  "videoUrl": "",
+  "prototype": "",
+  "pains": [
+    "Protótipo funcional em 2 semanas",
+    "Você valida antes de investir",
+    "Integra com seu ERP e sistemas atuais"
+  ],
+  "scope": "Seu problema, nossa engenharia.",
+  "scopeProposal": "Conta o desafio, a gente desenha um protótipo navegável. Você testa, ajusta, aprova. Só depois vira projeto. Sem risco de construir o sistema errado."
+}
+  
 ]
