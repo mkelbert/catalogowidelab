@@ -1,7 +1,7 @@
 [
   {
     "id": 10,
-    "title": "Seu Catálogo Digital (com IA)",
+    "title": "Seu Catálogo na Mão do Cliente",
     "tags": ["Inteligência Artificial", "Vendas & Marketing"],
     "product": "APP",
     "images": [
@@ -13,17 +13,16 @@
     ],
     "videoUrl": "https://youtube.com/shorts/dPH6plE1QSY?feature=share",
     "pains": [
-      "Seu catálogo de forma simples e fácil",
-      "Sempre atualizado",
-      "Comunicação centralizada",
-      "Inteligência artificial para busca por câmera e semelhança"
+      "Cliente encontra produto apontando a câmera",
+      "Sempre atualizado, sem PDF desatualizado rodando",
+      "IA busca por semelhança visual"
     ],
-    "scope": "App mobile com navegação rápida e inteligente em catálogo de produtos.",
-    "scopeProposal": "Permite buscar produtos por nome, código ou foto da câmera e semelhança (IA). Apresenta produtos com imagens, descrição e especificações. Ideal para representantes, distribuidores e clientes."
+    "scope": "App que coloca seu catálogo completo no bolso do cliente.",
+    "scopeProposal": "Cliente busca por nome, código ou foto. Encontra na hora. Representantes e distribuidores param de ligar perguntando referência."
   },
   {
     "id": 8,
-    "title": "Ofereça, Gerencie Coletas e Entregas Rápidas",
+    "title": "Ofereça Entrega Rápida e Ganhe do Marketplace",
     "tags": ["Logística"],
     "product": "Portal",
     "images": [
@@ -39,17 +38,16 @@
     "videoUrl": "",
     "prototype": "",
     "pains": [
-    "Ofereça Entrega Rápida",
-    "Seguro e Rápido para quem pede",
-    "Fácil para quem transporta",
-    "* Jaraguá do Sul/SC e Região. Integrado com EnvieBOX - Entregas Inteligentes"
+      "Entrega no mesmo dia vira seu diferencial",
+      "Cliente rastreia em tempo real",
+      "Você gerencia tudo num painel só"
     ],
-    "scope": "Portal Web com registros de coletas e entregas com os entregadores",
-    "scopeProposal": "Criação de entregas com definição de rotas. Gestão centralizada com painel de status, históricos e relatórios por período, rota e ocorrência."
+    "scope": "Portal para você oferecer same-day delivery na sua região.",
+    "scopeProposal": "Cria entrega, define rota, entregador recebe no app. Cliente acompanha. Integrado com EnvieBOX - Jaraguá do Sul/SC e região."
   },
   {
     "id": 2,
-    "title": "Agente de Conciliação e Baixa de Recebimentos (Contas a Receber)",
+    "title": "Libere seu Financeiro do Trabalho Repetitivo",
     "tags": ["Fiscal & Financeiro", "ERP Consistem"],
     "product": "Automação",
     "images": [
@@ -60,16 +58,16 @@
     "videoUrl": "https://www.youtube.com/shorts/-8R2lZN7YWs",
     "prototype": "https://drive.google.com/file/d/1R0L-nqPV-IyjrskG3lcB7lUGKlquEGEW/view?usp=sharing",
     "pains": [
-      "Agentes RPA que simulam o processo de conciliação e baixas financeiras",
-      "Alto volume que gera sobrecarga e retrabalho",
-      "Processo repetitivo e propenso a erros"
+      "Robô faz a baixa, você só confere exceções",
+      "Elimina erro humano na conciliação",
+      "Funciona 24h, inclusive feriado"
     ],
-    "scope": "Automatiza o processo de baixa financeira, desde a busca dos lançamentos até a conciliação, eliminando a intervenção manual.",
-    "scopeProposal": "O robô acessa os extratos bancários, identifica os créditos recebidos e aplica regras definidas (como antecipações, taxas ou portadores específicos). Em seguida, realiza a baixa automática no ERP, sem depender de digitação humana."
+    "scope": "Robô que faz baixa financeira automática no seu ERP.",
+    "scopeProposal": "Conecta no banco, lê extratos, aplica suas regras, baixa no Consistem. 4 horas por dia devolvidas pro seu time."
   },
   {
     "id": 9,
-    "title": "Assistência Técnica",
+    "title": "Sua Assistência Técnica Sob Controle Total",
     "tags": ["Atendimento", "Assistência", "ERP Consistem"],
     "product": "Portal",
     "images": [
@@ -81,18 +79,16 @@
     "videoUrl": "",
     "prototype": "",
     "pains": [
-      "Informação para quem está no campo, na montagem, na assistência",
-      "Não leva trabalho para casa",
-      "Registra informações e realiza processos de check-list",
-      "Integra com ERP Consistem e qualquer outra API",
-      "Dados e informação do campo"
+      "Técnico registra tudo no celular, na hora",
+      "Gestor vê status em tempo real",
+      "Acabou lançamento manual no ERP"
     ],
-    "scope": "Painel de gestão das assistências técnicas da empresa, com dados em tempo real.",
-    "scopeProposal": "Gestores abrem atendimentos e acompanham em tempo real status, horas apontadas, evidências e assinatura do cliente. Integra com o módulo ASTEC do ERP Consistem, eliminando lançamentos manuais."
+    "scope": "Portal + App para rastrear 100% dos atendimentos técnicos.",
+    "scopeProposal": "Abre chamado, técnico recebe no app, registra fotos e horas, cliente assina digital. Integra automático com ASTEC do Consistem."
   },
   {
     "id": 26,
-    "title": "Portal da Facção",
+    "title": "Controle sua Produção Terceirizada",
     "tags": ["Qualidade"],
     "product": "Portal",
     "images": [
@@ -104,16 +100,16 @@
     "videoUrl": "",
     "prototype": "",
     "pains": [
-        "Troque informações fácil com seu terceiro",
-        "Fácil acesso",
-        "Facilita a comunicação"
-  ],
-  "scope": "O Trello das Facções Integrado ao seu ERP",
-  "scopeProposal": "Controle as fases e centralize comunicação com a produção de seus fornecedores"
-  },  
+      "Facção atualiza status direto no portal",
+      "Você vê todas as fases em tempo real",
+      "Zero ligações pra cobrar status"
+    ],
+    "scope": "O Trello das suas facções, integrado ao seu ERP.",
+    "scopeProposal": "Você cria ordens, facção movimenta os cards pelo celular. Comunicação centralizada, sem WhatsApp perdido."
+  },
   {
     "id": 13,
-    "title": "APP Ecommerce B2C",
+    "title": "Seu App de Loja com Sua Marca",
     "tags": ["Vendas & Marketing"],
     "product": "APP",
     "images": [
@@ -126,38 +122,37 @@
     "videoUrl": "",
     "prototype": "",
     "pains": [
-      "App de Ecommerce da sua marca",
-      "Novo canal de comunicação",
-      "Live Shop"
+      "App na mão do cliente com sua marca",
+      "Push notification direto, sem algoritmo",
+      "Live Shop integrado"
     ],
-    "scope": "App de Ecommerce para integrar com a sua plataforma de ecommerce.",
-    "scopeProposal": "Banners, catálogo, favoritos, carrinho e checkout ."
+    "scope": "Seu ecommerce em app próprio, além dos marketplaces.",
+    "scopeProposal": "Integra com sua plataforma atual. Banners, catálogo, favoritos, carrinho e checkout. Pedido cai no mesmo lugar."
   },
   {
     "id": 19,
-    "title": "App do Motorista",
+    "title": "Seu Motorista Conectado à Operação",
     "tags": ["Logística", "ERP Consistem"],
     "product": "APP",
     "images": [
-        "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo19_01.png",
-        "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo19_00.png",
-        "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo19_02.png",
-        "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo19_03.png"      
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo19_01.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo19_00.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo19_02.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo19_03.png"
     ],
     "videoUrl": "",
     "prototype": "",
     "pains": [
-      "Organize a rota com coletas e entregas",
-      "Conferência de embarques e coletas",
-      "Todas informações da rota na palma da mão",
+      "Motorista vê rota otimizada no celular",
+      "Foto e status de cada entrega",
       "Funciona sem internet"
     ],
-      "scope": "App mobile para motoristas com rastreabilidade ponta a ponta.",
-      "scopeProposal": "O motorista visualiza suas rotas, embarques e ordens de entrega diretamente no app. Durante a entrega, registra fotos e status de cada parada. O app funciona offline e sincroniza depois, garantindo controle, agilidade."
+    "scope": "App para motorista com rastreabilidade ponta a ponta.",
+    "scopeProposal": "Logística monta rota no portal, motorista recebe no app, registra cada parada com foto. Sincroniza quando tem sinal. 100% das entregas comprovadas."
   },
   {
     "id": 7,
-    "title": "Universidade Corporativa",
+    "title": "Escale o Conhecimento da sua Equipe",
     "tags": ["Treinamento"],
     "product": "Portal",
     "images": [
@@ -170,16 +165,16 @@
     ],
     "videoUrl": "",
     "pains": [
-      "Gestão do conhecimento em treinamentos",
-      "Ofereça treinamentos na Web ou App próprio",
-      "Provas e certificações"
+      "Treina uma vez, replica pra sempre",
+      "Prova e certificado automático",
+      "Sabe quem fez e quem não fez"
     ],
-    "scope": "Plataforma digital de treinamentos com trilhas estruturadas e certificados, ideal para capacitar equipes de forma escalável e monitorada.",
-    "scopeProposal": "Usuários acessam módulos de aprendizado (vídeo, áudio, texto), respondem questionários, acumulam pontos e recebem certificados. "
+    "scope": "Sua universidade corporativa própria.",
+    "scopeProposal": "Monta trilhas com vídeo, texto, quiz. Colaborador acessa, completa, ganha certificado. Ideal pra alta rotatividade ou rede de franquias."
   },
   {
     "id": 25,
-    "title": "Remarcação de Preço",
+    "title": "Remarcação de Preço sem Erro",
     "tags": ["Varejo", "Vendas & Marketing"],
     "product": "Portal",
     "images": [
@@ -191,16 +186,16 @@
     "videoUrl": "",
     "prototype": "",
     "pains": [
-        "Relação de preços a serem remarcados",
-        "Controle e impressão",
-        "Impressora Bluetoow"
-  ],
-  "scope": "Solução Mobile para apoio em remarcação de preços de produos para o varejo",
-  "scopeProposal": "Solução Mobile para ser integrada ao seu sistema de loja, ERP para receber uma lista de preços a serem remarcadas e apoiar na impressão e gestão das novas etiquetas."
+      "Lista de remarcação vem direto do sistema",
+      "Imprime etiqueta pelo celular",
+      "Controle do que foi remarcado"
+    ],
+    "scope": "App mobile para remarcação de preços no varejo.",
+    "scopeProposal": "Sistema manda lista, funcionário vai na gôndola, confere e imprime na hora com impressora Bluetooth. Zero etiqueta com preço errado."
   },
   {
-    "id": 26,
-    "title": "Prateleira Infinita",
+    "id": 27,
+    "title": "Transforme Vendedor em Canal Online",
     "tags": ["Varejo", "Vendas & Marketing", "Inteligência Artificial"],
     "product": "APP",
     "images": [
@@ -213,16 +208,16 @@
     "videoUrl": "",
     "prototype": "",
     "pains": [
-        "Transforma seleção de produtos em link de carrinho virtual",
-        "Novo canal de venda para seu vendedor",
-        "Entrega métricas de vendas"
-  ],
-  "scope": "App para vendedor montar links com produtos para encaminhar para clientes finais.",
-  "scopeProposal": "App para ser integrado com seu varejo, ERP para seu vendedor não depender apenas de clientes que entram na loja."
+      "Vendedor monta carrinho e manda link pro cliente",
+      "Venda atribuída ao vendedor",
+      "Cliente compra sem ir na loja"
+    ],
+    "scope": "Prateleira infinita: seu vendedor vendendo fora da loja.",
+    "scopeProposal": "Vendedor seleciona produtos, gera link, manda no WhatsApp. Cliente finaliza, comissão vai pro vendedor. +30% de alcance."
   },
   {
     "id": 20,
-    "title": "Gerencie suas Vitrines",
+    "title": "Suas Vitrines Alinhadas em Toda Rede",
     "tags": ["Varejo", "Vendas & Marketing", "Inteligência Artificial"],
     "product": "APP",
     "images": [
@@ -235,17 +230,16 @@
     "videoUrl": "",
     "prototype": "",
     "pains": [
-      "Defina campanhas de vitrines e cronogramas",
-      "Centralize a comunicação em um App",
-      "Crie um catálogo com as fotos das vitrines de todas as lojas",
-      "Use IA para análise e sugestões"
+      "Define campanha, loja executa e registra",
+      "Histórico visual de todas vitrines",
+      "IA analisa e sugere melhorias"
     ],
-    "scope": "Centralize a gestão de vitrines em um único app, conectando indústria e lojistas com dados, histórico e controle.",
-    "scopeProposal": "Agendamento e aprovação de vitrines pela indústria, envio de fotos e informações pelo lojista, acompanhamento em tempo real."
+    "scope": "Gestão centralizada de vitrines para redes e franquias.",
+    "scopeProposal": "Indústria define vitrine, lojista recebe no app, monta e fotografa. Você aprova e tem catálogo visual de tudo. 100% das lojas no padrão."
   },
   {
     "id": 22,
-    "title": "Portal do Representante",
+    "title": "Seus Representantes Vendendo Mais, Ligando Menos",
     "tags": ["Vendas & Marketing", "ERP Consistem"],
     "product": "Portal",
     "images": [
@@ -261,16 +255,16 @@
     "videoUrl": "",
     "prototype": "",
     "pains": [
-      "Canal para o seu representante inserir facilmente um novo pedido de venda",
-      "Informações para o seu representante",
-      "Facilita a comunicação do representante, cliente e comercial da empresa"
-  ],
-  "scope": "Plataforma de força de vendas totalmente customizada, onde representantes podem acessar, logar, registrar pedidos e acompanhar seu status, adaptada às regras comerciais e processos específicos de cada cliente.",
-  "scopeProposal": "Portal personalizado com login individual, gestão de clientes e pedidos, políticas comerciais dinâmicas, integração com ERP,. Foco em simplificar o processo de venda."
-  },  
+      "Representante faz pedido em 5 minutos",
+      "Preço, estoque e prazo sempre atualizados",
+      "Menos ligação pro seu comercial"
+    ],
+    "scope": "Portal de força de vendas customizado pra sua regra.",
+    "scopeProposal": "Representante loga, vê clientes, monta pedido com políticas já aplicadas. Pedido cai direto no ERP. Regras comerciais respeitadas automaticamente."
+  },
   {
     "id": 14,
-    "title": "Plataforma de Venda de Passagens e Ingressos B2C",
+    "title": "Venda Passagens e Ingressos 24 horas",
     "tags": ["Vendas & Marketing", "Logística"],
     "product": "Portal",
     "images": [
@@ -284,14 +278,11 @@
     "videoUrl": "",
     "prototype": "",
     "pains": [
-      "Venda de passagens, ingressos B2C",
-      "Reserva de banco e assentos",
-      "Recursos de Pesquisa de satisfação, cashback, filmes.",
-      "Comunicação centralizada",
-      "Check Out"
+      "Cliente escolhe assento e paga online",
+      "Check-in digital sem fila",
+      "Cashback e pesquisa de satisfação"
     ],
-    "scope": "Plataforma completa com APP para Venda online com assentos e rotas.",
-    "scopeProposal": "Seleção de assento, rotas/horários, check-in, filmes, relatórios, pesquisas e outros."
-  }  
-  
+    "scope": "Plataforma completa para venda de passagens e ingressos.",
+    "scopeProposal": "Cliente acessa, escolhe rota ou evento, seleciona assento, paga. Recebe ingresso digital, faz check-in no app. Você vende 24/7 sem guichê."
+  }
 ]
