@@ -349,7 +349,26 @@
   "scope": "App para inspeção de qualidade em fornecedores e produção externa.",
   "scopeProposal": "Inspetor acessa ordem, segue checklist, registra fotos e apontamentos. Você acompanha em tempo real por fornecedor, lote e ordem. Falhas aparecem na hora, não no recebimento."
 } ,
-
+{
+  "id": 17,
+  "title": "Saiba Quem Vendeu, Quem Perdeu e Por Quê",
+  "tags": ["Vendas & Marketing", "Varejo"],
+  "product": "APP",
+  "images": [
+    "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo17_001.png",
+    "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo17_002.png",
+    "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo17_003.png"
+  ],
+  "videoUrl": "",
+  "prototype": "",
+  "pains": [
+    "Fila organizada, cada vendedor sabe sua vez",
+    "Registra atendimento, venda ou perda com motivo",
+    "Você vê conversão por vendedor em tempo real"
+  ],
+  "scope": "CRM de loja que organiza fila e mede conversão.",
+  "scopeProposal": "Cliente entra, vendedor da vez atende, registra no app. Vendeu ou perdeu, fica no histórico. Você descobre onde está vazando venda."
+},
 
 
   
