@@ -408,12 +408,24 @@
     "Exporta tudo em ZIP, pronto"
   ]
 }, 
-
-
-
-  
-
-  
+{
+  "id": 28,
+  "title": "Suas Mensagens Disparadas sem Esforço",
+  "tags": ["Vendas & Marketing", "Atendimento", "Automação"],
+  "product": "Automação",
+  "images": [
+    ""
+  ],
+  "videoUrl": "",
+  "prototype": "",
+  "pains": [
+    "Dispara WhatsApp em massa direto da planilha",
+    "Número inválido? E-mail vai automático",
+    "Personaliza mensagem por contato"
+  ],
+  "scope": "Automação que dispara WhatsApp e faz fallback para e-mail.",
+  "scopeProposal": "Você monta a fila na planilha com número, nome e mensagem. Robô dispara no WhatsApp. Se não encontrar, manda e-mail com assunto e corpo personalizados. Zero contato esquecido."
+},  
 {
   "id": 99,
   "title": "Não Achou o Seu? A Gente Desenha",
