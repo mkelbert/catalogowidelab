@@ -399,8 +399,10 @@
     "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo99_03.png.png",
     "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo99_04.png"
   ],
-  "videoUrl": 
+  "videoUrl": [
     "https://youtube.com/shorts/e8WLTydoVng?feature=share",
+    "https://youtube.com/shorts/pFIZIjDOLeY?feature=share"
+  ],
   "prototype": "",
   "pains": [
     "Protótipo funcional em 2 semanas",
