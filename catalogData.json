@@ -389,6 +389,38 @@
   "scope": "WhatsApp que consulta, responde e executa no seu ERP.",
   "scopeProposal": "Monta fluxos com menu de opções ou IA conversacional. Cliente pergunta, bot responde com dado real do sistema. Representante consulta estoque, motorista envia canhoto. Tudo automático."
 },
+
+
+
+
+  
+{
+  "id": 6,
+  "title": "Suas Fotos Protegidas em 1 Clique",
+  "tags": ["Marketing", "Ecommerce", "Produtividade"],
+  "product": "Portal",
+  "images": [
+    "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo06_00.png",
+    "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo06_011.png"
+    "
+  ],
+  "videoUrl": "",
+  "prototype": "https://demo.widelab.com.br/editImage",
+  "metric": {
+    "value": "100x",
+    "label": "mais rápido que editar no Canva"
+  },
+  "effort": "Funciona no navegador, sem instalar nada",
+  "idealFor": "E-commerces e indústrias com catálogo de produtos",
+  "gains": [
+    "Aplica sua marca em centenas de fotos de uma vez",
+    "Protege seus produtos de cópia pela concorrência",
+    "Exporta tudo em ZIP, pronto pro site"
+  ],
+  "howItWorks": "Sobe as imagens, posiciona a marca, ajusta opacidade. Clica e baixa todas prontas."
+}
+  
+  
 {
   "id": 99,
   "title": "Não Achou o Seu? A Gente Desenha",
