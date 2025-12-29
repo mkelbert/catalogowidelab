@@ -399,19 +399,14 @@
     "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo06_011.png"
   ],
   "videoUrl": "",
-  "prototype": "https://demo.widelab.com.br/editImage",
-  "metric": {
-    "value": "100x",
-    "label": "mais rápido que editar no Canva"
-  },
-  "effort": "Funciona no navegador, sem instalar nada",
-  "idealFor": "E-commerces e indústrias com catálogo de produtos",
-  "gains": [
+  "prototype": "",
+  "scopeProposal": "Funciona no navegador, sem instalar nada",
+  "pains": [
     "Aplica sua marca em centenas de fotos de uma vez",
     "Protege seus produtos de cópia pela concorrência",
     "Exporta tudo em ZIP, pronto pro site"
   ],
-  "howItWorks": "Sobe as imagens, posiciona a marca, ajusta opacidade. Clica e baixa todas prontas."
+  "scope": "Sobe as imagens, posiciona a marca, ajusta opacidade. Clica e baixa todas prontas."
 }, 
 
 
