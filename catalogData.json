@@ -1,5 +1,73 @@
 [
   {
+    "id": 2,
+    "title": "Libere seu Financeiro do Trabalho Repetitivo",
+    "tags": ["Fiscal & Financeiro", "ERP Consistem"],
+    "product": "Automação",
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo02_01.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo02_02.png.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo02_03.png"
+    ],
+    "videoUrl":  [
+      "https://www.youtube.com/shorts/-8R2lZN7YWs",
+      "https://youtu.be/nXWixSzGLx8"
+    ], 
+    "prototype": "https://drive.google.com/file/d/1R0L-nqPV-IyjrskG3lcB7lUGKlquEGEW/view?usp=sharing",
+    "pains": [
+      "Robô faz a baixa, você só confere exceções",
+      "Lançamentos manuais de extrato",
+      "Elimina erro humano na conciliação",
+      "Funciona 24h, inclusive feriado"
+    ],
+    "scope": "Robô que faz baixa financeira automática no seu ERP.",
+    "scopeProposal": "Conecta no banco, lê extratos, aplica suas regras, baixa no Consistem. 4 horas por dia devolvidas pro seu time."
+  },
+  {
+    "id": 9,
+    "title": "Sua Assistência Técnica Sob Controle Total",
+    "tags": ["Atendimento", "Assistência", "ERP Consistem"],
+    "product": "Portal",
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo09_00a.png-1.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo09_00b.png.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo09_01.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo09_02.png.png"
+    ],
+    "videoUrl": "",
+    "prototype": "",
+    "pains": [
+      "Técnico registra tudo no celular, na hora",
+      "Gestor vê status em tempo real",
+      "Acabou lançamento manual no ERP"
+    ],
+    "scope": "Portal + App para rastrear 100% dos atendimentos técnicos.",
+    "scopeProposal": "Abre chamado, técnico recebe no app, registra fotos e horas, cliente assina digital. Integra automático com ASTEC do Consistem."
+  },
+  {
+    "id": 27,
+    "title": "Transforme Vendedor em Canal Online",
+    "tags": ["Varejo", "Vendas & Marketing", "Inteligência Artificial"],
+    "product": "APP",
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo26_02.png.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo26_00.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo26_02.png.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo26_03.png.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo26_04.png.png"
+    ],
+    "videoUrl": "",
+    "prototype": "",
+    "pains": [
+      "Vendedor monta carrinho e manda link pro cliente",
+      "Venda atribuída ao vendedor",
+      "Cliente compra sem ir na loja"
+    ],
+    "scope": "Prateleira infinita: seu vendedor vendendo fora da loja.",
+    "scopeProposal": "Vendedor seleciona produtos, gera link, manda no WhatsApp. Cliente finaliza, comissão vai pro vendedor. +30% de alcance."
+  },
+  
+  {
     "id": 10,
     "title": "Seu Catálogo Digial com IA",
     "tags": ["Inteligência Artificial", "Vendas & Marketing"],
@@ -46,30 +114,6 @@
     "scope": "Portal para você oferecer entrega rápida em seu negócio.",
     "scopeProposal": "Cria entrega, define rota, entregador recebe no app. Cliente acompanha. Integrado com EnvieBOX - Jaraguá do Sul/SC e região."
   },
-  {
-    "id": 2,
-    "title": "Libere seu Financeiro do Trabalho Repetitivo",
-    "tags": ["Fiscal & Financeiro", "ERP Consistem"],
-    "product": "Automação",
-    "images": [
-      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo02_01.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo02_02.png.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo02_03.png"
-    ],
-    "videoUrl":  [
-      "https://www.youtube.com/shorts/-8R2lZN7YWs",
-      "https://youtu.be/nXWixSzGLx8"
-    ], 
-    "prototype": "https://drive.google.com/file/d/1R0L-nqPV-IyjrskG3lcB7lUGKlquEGEW/view?usp=sharing",
-    "pains": [
-      "Robô faz a baixa, você só confere exceções",
-      "Lançamentos manuais de extrato",
-      "Elimina erro humano na conciliação",
-      "Funciona 24h, inclusive feriado"
-    ],
-    "scope": "Robô que faz baixa financeira automática no seu ERP.",
-    "scopeProposal": "Conecta no banco, lê extratos, aplica suas regras, baixa no Consistem. 4 horas por dia devolvidas pro seu time."
-  },
 {
   "id": 1,
   "title": "Suas Notas Lançadas sem Digitar",
@@ -88,27 +132,6 @@
   "scope": "Robô que lança notas fiscais automaticamente no seu ERP.",
   "scopeProposal": "XML chega, robô lê, valida impostos, preenche campos e lança no Consistem. Entradas, retornos, terceiros. Você só aprova exceções."
 },
-  {
-    "id": 9,
-    "title": "Sua Assistência Técnica Sob Controle Total",
-    "tags": ["Atendimento", "Assistência", "ERP Consistem"],
-    "product": "Portal",
-    "images": [
-      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo09_00a.png-1.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo09_00b.png.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo09_01.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo09_02.png.png"
-    ],
-    "videoUrl": "",
-    "prototype": "",
-    "pains": [
-      "Técnico registra tudo no celular, na hora",
-      "Gestor vê status em tempo real",
-      "Acabou lançamento manual no ERP"
-    ],
-    "scope": "Portal + App para rastrear 100% dos atendimentos técnicos.",
-    "scopeProposal": "Abre chamado, técnico recebe no app, registra fotos e horas, cliente assina digital. Integra automático com ASTEC do Consistem."
-  },
   {
     "id": 26,
     "title": "Controle sua Produção Terceirizada",
@@ -215,28 +238,6 @@
     ],
     "scope": "App mobile para remarcação de preços no varejo.",
     "scopeProposal": "Sistema manda lista, funcionário vai na gôndola, confere e imprime na hora com impressora Bluetooth. Zero etiqueta com preço errado."
-  },
-  {
-    "id": 27,
-    "title": "Transforme Vendedor em Canal Online",
-    "tags": ["Varejo", "Vendas & Marketing", "Inteligência Artificial"],
-    "product": "APP",
-    "images": [
-      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo26_02.png.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo26_00.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo26_02.png.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo26_03.png.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo26_04.png.png"
-    ],
-    "videoUrl": "",
-    "prototype": "",
-    "pains": [
-      "Vendedor monta carrinho e manda link pro cliente",
-      "Venda atribuída ao vendedor",
-      "Cliente compra sem ir na loja"
-    ],
-    "scope": "Prateleira infinita: seu vendedor vendendo fora da loja.",
-    "scopeProposal": "Vendedor seleciona produtos, gera link, manda no WhatsApp. Cliente finaliza, comissão vai pro vendedor. +30% de alcance."
   },
   {
     "id": 20,
