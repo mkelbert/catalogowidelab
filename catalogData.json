@@ -2,17 +2,17 @@
   {
     "id": 2,
     "title": "Libere seu Financeiro do Trabalho Repetitivo",
-    "tags": ["Fiscal & Financeiro", "ERP Consistem"],
+    "tags": ["Administrativo e RH"],
     "product": "Automação",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo02_01.png",
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo02_02.png.png",
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo02_03.png"
     ],
-    "videoUrl":  [
+    "videoUrl": [
       "https://www.youtube.com/shorts/-8R2lZN7YWs",
       "https://youtu.be/nXWixSzGLx8"
-    ], 
+    ],
     "prototype": "https://drive.google.com/file/d/1R0L-nqPV-IyjrskG3lcB7lUGKlquEGEW/view?usp=sharing",
     "pains": [
       "Robô faz a baixa, você só confere exceções",
@@ -26,7 +26,7 @@
   {
     "id": 9,
     "title": "Sua Assistência Técnica Sob Controle Total",
-    "tags": ["Atendimento", "Assistência", "ERP Consistem"],
+    "tags": ["Logística e Operação"],
     "product": "Portal",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo09_00a.png-1.png",
@@ -47,7 +47,7 @@
   {
     "id": 27,
     "title": "Transforme Vendedor em Canal Online",
-    "tags": ["Varejo", "Vendas & Marketing", "Inteligência Artificial"],
+    "tags": ["Vendas e Marketing"],
     "product": "APP",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo26_02.png.png",
@@ -66,11 +66,10 @@
     "scope": "Prateleira infinita: seu vendedor vendendo fora da loja.",
     "scopeProposal": "Vendedor seleciona produtos, gera link, manda no WhatsApp. Cliente finaliza, comissão vai pro vendedor. +30% de alcance."
   },
-  
   {
     "id": 10,
     "title": "Seu Catálogo Digial com IA",
-    "tags": ["Inteligência Artificial", "Vendas & Marketing"],
+    "tags": ["Vendas e Marketing"],
     "product": "APP",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/12/fotoCatalogo-04-Grande.png",
@@ -92,7 +91,7 @@
   {
     "id": 8,
     "title": "Ofereça, Gerencie: Entrega Rápida",
-    "tags": ["Logística"],
+    "tags": ["Logística e Operação"],
     "product": "Portal",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo08_10.png",
@@ -114,28 +113,28 @@
     "scope": "Portal para você oferecer entrega rápida em seu negócio.",
     "scopeProposal": "Cria entrega, define rota, entregador recebe no app. Cliente acompanha. Integrado com EnvieBOX - Jaraguá do Sul/SC e região."
   },
-{
-  "id": 1,
-  "title": "Suas Notas Lançadas sem Digitar",
-  "tags": ["Fiscal & Financeiro", "ERP Consistem"],
-  "product": "Automação",
-  "images": [
-    "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Entrada-de-Notas-Automatica-01.png"
-  ],
-  "videoUrl": "",
-  "prototype": "",
-  "pains": [
-    "Robô lê, confere e lança a nota sozinho",
-    "Zero erro de digitação ou imposto errado",
-    "Funciona 24h, escala sem contratar"
-  ],
-  "scope": "Robô que lança notas fiscais automaticamente no seu ERP.",
-  "scopeProposal": "XML chega, robô lê, valida impostos, preenche campos e lança no Consistem. Entradas, retornos, terceiros. Você só aprova exceções."
-},
+  {
+    "id": 1,
+    "title": "Suas Notas Lançadas sem Digitar",
+    "tags": ["Administrativo e RH"],
+    "product": "Automação",
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Entrada-de-Notas-Automatica-01.png"
+    ],
+    "videoUrl": "",
+    "prototype": "",
+    "pains": [
+      "Robô lê, confere e lança a nota sozinho",
+      "Zero erro de digitação ou imposto errado",
+      "Funciona 24h, escala sem contratar"
+    ],
+    "scope": "Robô que lança notas fiscais automaticamente no seu ERP.",
+    "scopeProposal": "XML chega, robô lê, valida impostos, preenche campos e lança no Consistem. Entradas, retornos, terceiros. Você só aprova exceções."
+  },
   {
     "id": 26,
     "title": "Controle sua Produção Terceirizada",
-    "tags": ["Qualidade"],
+    "tags": ["Logística e Operação"],
     "product": "APP",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo26_01.png",
@@ -156,7 +155,7 @@
   {
     "id": 13,
     "title": "Seu App de Loja com Sua Marca",
-    "tags": ["Vendas & Marketing"],
+    "tags": ["Vendas e Marketing"],
     "product": "Portal",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo13_01.png",
@@ -178,7 +177,7 @@
   {
     "id": 19,
     "title": "Seu Motorista Conectado à Operação",
-    "tags": ["Logística", "ERP Consistem"],
+    "tags": ["Logística e Operação"],
     "product": "APP",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo19_00.png",
@@ -199,7 +198,7 @@
   {
     "id": 7,
     "title": "Escale o Conhecimento da sua Equipe",
-    "tags": ["Treinamento"],
+    "tags": ["Administrativo e RH"],
     "product": "Portal",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo07_00.png",
@@ -221,7 +220,7 @@
   {
     "id": 25,
     "title": "Remarcação de Preço sem Erro",
-    "tags": ["Varejo", "Vendas & Marketing"],
+    "tags": ["Varejo e Loja"],
     "product": "APP",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo25_03.png",
@@ -242,7 +241,7 @@
   {
     "id": 20,
     "title": "Suas Vitrines Alinhadas em Toda Rede",
-    "tags": ["Varejo", "Vendas & Marketing", "Inteligência Artificial"],
+    "tags": ["Varejo e Loja"],
     "product": "APP",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo20_00.png",
@@ -264,7 +263,7 @@
   {
     "id": 22,
     "title": "Seus Representantes Vendendo Mais, Ligando Menos",
-    "tags": ["Vendas & Marketing", "ERP Consistem"],
+    "tags": ["Vendas e Marketing"],
     "product": "Portal",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo22_05.png",
@@ -289,7 +288,7 @@
   {
     "id": 14,
     "title": "Venda Passagens e Ingressos 24 horas",
-    "tags": ["Vendas & Marketing", "Logística"],
+    "tags": ["Varejo e Loja"],
     "product": "Portal",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo14_001.png",
@@ -309,146 +308,146 @@
     "scope": "Plataforma completa para venda de passagens e ingressos.",
     "scopeProposal": "Cliente acessa, escolhe rota ou evento, seleciona assento, paga. Recebe ingresso digital, faz check-in no app. Você vende 24/7 sem guichê."
   },
-{
-  "id": 24,
-  "title": "Suas Vagas Preenchidas com Menos Esforço",
-  "tags": ["RH", "ERP Consistem", "Inteligência Artificial"],
-  "product": "APP",
-  "images": [
-    "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo24_001.app_.png",
-    "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo24_002.app_.png",
-    "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo24_003.app_.png",
-    "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo24_004.app_.png"
-  ],
-  "videoUrl": "",
-  "prototype": "https://pro-vagas.lovable.app/",
-  "pains": [
-    "Candidato se cadastra e acompanha sozinho",
-    "RH vê tudo integrado ao ERP",
-    "IA faz triagem e agenda entrevistas por WhatsApp"
-  ],
-  "scope": "App que conecta candidato, RH e automações num lugar só.",
-  "scopeProposal": "Candidato vê vagas, preenche currículo e acompanha status. RH recebe tudo organizado no sistema. Add-ons de IA fazem triagem, agendam entrevistas e enriquecem dados automaticamente."
-},  
-{
-  "id": 18,
-  "title": "Saiba o que seu Fornecedor está Produzindo",
-  "tags": ["Qualidade", "Produção"],
-  "product": "APP",
-  "images": [
-    "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id18-01.png",
-    "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id18-02.png",
-    "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id18-03.png",
-    "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id18-04.png"
-  ],
-  "videoUrl": "",
-  "prototype": "",
-  "pains": [
-    "Inspetor registra tudo no celular, com foto",
-    "Checklist padronizado por item",
-    "Você vê problemas antes de virar refugo"
-  ],
-  "scope": "App para inspeção de qualidade em fornecedores e produção externa.",
-  "scopeProposal": "Inspetor acessa ordem, segue checklist, registra fotos e apontamentos. Você acompanha em tempo real por fornecedor, lote e ordem. Falhas aparecem na hora, não no recebimento."
-} ,
-{
-  "id": 17,
-  "title": "Saiba Quem Vendeu, Quem Perdeu e Por Quê",
-  "tags": ["Vendas & Marketing", "Varejo"],
-  "product": "APP",
-  "images": [
-    "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo17_001.png",
-    "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo17_002.png",
-    "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo17_003.png"
-  ],
-  "videoUrl": "",
-  "prototype": "",
-  "pains": [
-    "Fila organizada, cada vendedor sabe sua vez",
-    "Registra atendimento, venda ou perda com motivo",
-    "Você vê conversão por vendedor em tempo real"
-  ],
-  "scope": "CRM de loja que organiza fila e mede conversão.",
-  "scopeProposal": "Cliente entra, vendedor da vez atende, registra no app. Vendeu ou perdeu, fica no histórico. Você descobre onde está vazando venda."
-},
-{
-  "id": 15,
-  "title": "Seu WhatsApp Integrado aos seus Sistemas",
-  "tags": ["Atendimento", "Vendas & Marketing", "Inteligência Artificial", "ERP Consistem"],
-  "product": "Automação",
-  "images": [
-    "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo15_001.png"
-  ],
-  "videoUrl": "",
-  "prototype": "",
-  "pains": [
-    "Cliente consulta nota, boleto, status sozinho",
-    "Chatbot com IA responde 24h",
-    "Integra com ERP, estoque, pedido, faturamento...",
-    "Agentes ativos de whatsapp"
-  ],
-  "scope": "WhatsApp que consulta, responde e executa no seu ERP.",
-  "scopeProposal": "Monta fluxos com menu de opções ou IA conversacional. Cliente pergunta, bot responde com dado real do sistema. Representante consulta estoque, motorista envia canhoto. Tudo automático."
-},  
-{
-  "id": 6,
-  "title": "Suas Fotos Protegidas em 1 Clique",
-  "tags": ["Marketing", "Ecommerce", "Produtividade"],
-  "product": "Automação",
-  "images": [
-    "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo06_00.png",
-    "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo06_011.png"
-  ],
-  "videoUrl": "",
-  "prototype": "",
-  "scope": "Sobe as imagens, posiciona a marca, ajusta opacidade. Clica e baixa todas prontas.",
-  "scopeProposal": "Funciona no navegador, sem instalar nada",
-  "pains": [
-    "Aplica sua marca em centenas de fotos de uma vez",
-    "Protege seus produtos de cópia pela concorrência",
-    "Exporta tudo em ZIP, pronto"
-  ]
-}, 
-{
-  "id": 28,
-  "title": "Suas Mensagens Disparadas sem Esforço",
-  "tags": ["Vendas & Marketing", "Atendimento", "Automação"],
-  "product": "Automação",
-  "images": [
-    "https://www.widelab.com.br/wp-content/uploads/2025/12/catalogo28_02.png"
-  ],
-  "videoUrl": "",
-  "prototype": "",
-  "pains": [
-    "Dispara WhatsApp em massa direto da planilha",
-    "Número inválido? E-mail vai automático",
-    "Personaliza mensagem por contato"
-  ],
-  "scope": "Automação que dispara WhatsApp e faz fallback para e-mail.",
-  "scopeProposal": "Você monta a fila na planilha com número, nome e mensagem. Robô dispara no WhatsApp. Se não encontrar, manda e-mail com assunto e corpo personalizados. Zero contato esquecido."
-},  
-{
-  "id": 99,
-  "title": "Não Achou o Seu? A Gente Desenha",
-  "tags": ["Sob Medida"],
-  "product":  "Portal",
-  "images": [
-    "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo99_02.png.png",
-    "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo99_01.png",
-    "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo99_03.png.png",
-    "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo99_04.png"
-  ],
-  "videoUrl": [
-    "https://youtube.com/shorts/e8WLTydoVng?feature=share",
-    "https://youtube.com/shorts/pFIZIjDOLeY?feature=share"
-  ],
-  "prototype": "https://drive.google.com/file/d/1UX6bp63akFbjFBK5jeZ4-qr0A7EySwB7/view?usp=drive_link",
-  "pains": [
-    "Protótipo funcional em 2 semanas",
-    "Você valida antes de investir",
-    "Integra com seu ERP e sistemas atuais"
-  ],
-  "scope": "Seu problema, nossa engenharia.",
-  "scopeProposal": "Conta o desafio, a gente desenha um protótipo navegável. Você testa, ajusta, aprova. Só depois vira projeto. Sem risco de construir o sistema errado."
-}
+  {
+    "id": 24,
+    "title": "Suas Vagas Preenchidas com Menos Esforço",
+    "tags": ["Administrativo e RH"],
+    "product": "APP",
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo24_001.app_.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo24_002.app_.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo24_003.app_.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo24_004.app_.png"
+    ],
+    "videoUrl": "",
+    "prototype": "https://pro-vagas.lovable.app/",
+    "pains": [
+      "Candidato se cadastra e acompanha sozinho",
+      "RH vê tudo integrado ao ERP",
+      "IA faz triagem e agenda entrevistas por WhatsApp"
+    ],
+    "scope": "App que conecta candidato, RH e automações num lugar só.",
+    "scopeProposal": "Candidato vê vagas, preenche currículo e acompanha status. RH recebe tudo organizado no sistema. Add-ons de IA fazem triagem, agendam entrevistas e enriquecem dados automaticamente."
+  },
+  {
+    "id": 18,
+    "title": "Saiba o que seu Fornecedor está Produzindo",
+    "tags": ["Logística e Operação"],
+    "product": "APP",
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id18-01.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id18-02.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id18-03.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id18-04.png"
+    ],
+    "videoUrl": "",
+    "prototype": "",
+    "pains": [
+      "Inspetor registra tudo no celular, com foto",
+      "Checklist padronizado por item",
+      "Você vê problemas antes de virar refugo"
+    ],
+    "scope": "App para inspeção de qualidade em fornecedores e produção externa.",
+    "scopeProposal": "Inspetor acessa ordem, segue checklist, registra fotos e apontamentos. Você acompanha em tempo real por fornecedor, lote e ordem. Falhas aparecem na hora, não no recebimento."
+  },
+  {
+    "id": 17,
+    "title": "Saiba Quem Vendeu, Quem Perdeu e Por Quê",
+    "tags": ["Varejo e Loja"],
+    "product": "APP",
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo17_001.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo17_002.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo17_003.png"
+    ],
+    "videoUrl": "",
+    "prototype": "",
+    "pains": [
+      "Fila organizada, cada vendedor sabe sua vez",
+      "Registra atendimento, venda ou perda com motivo",
+      "Você vê conversão por vendedor em tempo real"
+    ],
+    "scope": "CRM de loja que organiza fila e mede conversão.",
+    "scopeProposal": "Cliente entra, vendedor da vez atende, registra no app. Vendeu ou perdeu, fica no histórico. Você descobre onde está vazando venda."
+  },
+  {
+    "id": 15,
+    "title": "Seu WhatsApp Integrado aos seus Sistemas",
+    "tags": ["Vendas e Marketing"],
+    "product": "Automação",
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo15_001.png"
+    ],
+    "videoUrl": "",
+    "prototype": "",
+    "pains": [
+      "Cliente consulta nota, boleto, status sozinho",
+      "Chatbot com IA responde 24h",
+      "Integra com ERP, estoque, pedido, faturamento...",
+      "Agentes ativos de whatsapp"
+    ],
+    "scope": "WhatsApp que consulta, responde e executa no seu ERP.",
+    "scopeProposal": "Monta fluxos com menu de opções ou IA conversacional. Cliente pergunta, bot responde com dado real do sistema. Representante consulta estoque, motorista envia canhoto. Tudo automático."
+  },
+  {
+    "id": 6,
+    "title": "Suas Fotos Protegidas em 1 Clique",
+    "tags": ["Vendas e Marketing"],
+    "product": "Automação",
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo06_00.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo06_011.png"
+    ],
+    "videoUrl": "",
+    "prototype": "",
+    "scope": "Sobe as imagens, posiciona a marca, ajusta opacidade. Clica e baixa todas prontas.",
+    "scopeProposal": "Funciona no navegador, sem instalar nada",
+    "pains": [
+      "Aplica sua marca em centenas de fotos de uma vez",
+      "Protege seus produtos de cópia pela concorrência",
+      "Exporta tudo em ZIP, pronto"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Suas Mensagens Disparadas sem Esforço",
+    "tags": ["Vendas e Marketing"],
+    "product": "Automação",
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/catalogo28_02.png"
+    ],
+    "videoUrl": "",
+    "prototype": "",
+    "pains": [
+      "Dispara WhatsApp em massa direto da planilha",
+      "Número inválido? E-mail vai automático",
+      "Personaliza mensagem por contato"
+    ],
+    "scope": "Automação que dispara WhatsApp e faz fallback para e-mail.",
+    "scopeProposal": "Você monta a fila na planilha com número, nome e mensagem. Robô dispara no WhatsApp. Se não encontrar, manda e-mail com assunto e corpo personalizados. Zero contato esquecido."
+  },
+  {
+    "id": 99,
+    "title": "Não Achou o Seu? A Gente Desenha",
+    "tags": [],
+    "product": "Portal",
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo99_02.png.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo99_01.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo99_03.png.png",
+      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo99_04.png"
+    ],
+    "videoUrl": [
+      "https://youtube.com/shorts/e8WLTydoVng?feature=share",
+      "https://youtube.com/shorts/pFIZIjDOLeY?feature=share"
+    ],
+    "prototype": "https://drive.google.com/file/d/1UX6bp63akFbjFBK5jeZ4-qr0A7EySwB7/view?usp=drive_link",
+    "pains": [
+      "Protótipo funcional em 2 semanas",
+      "Você valida antes de investir",
+      "Integra com seu ERP e sistemas atuais"
+    ],
+    "scope": "Seu problema, nossa engenharia.",
+    "scopeProposal": "Conta o desafio, a gente desenha um protótipo navegável. Você testa, ajusta, aprova. Só depois vira projeto. Sem risco de construir o sistema errado."
+  }
 ]
