@@ -2,9 +2,11 @@
   {
     "id": 2,
     "title": "Libere seu Financeiro do Trabalho Repetitivo",
-    "tags": ["Administrativo e RH"],
+    "tags": [
+      "Administrativo e RH"
+    ],
     "product": "Automação",
-    "icon": "storefront",
+    "icon": "account_balance",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo02_01.png",
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo02_02.png.png",
@@ -27,8 +29,11 @@
   {
     "id": 9,
     "title": "Sua Assistência Técnica Sob Controle Total",
-    "tags": ["Logística e Operação"],
+    "tags": [
+      "Logística e Operação"
+    ],
     "product": "Portal",
+    "icon": "support_agent",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo09_00a.png-1.png",
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo09_00b.png.png",
@@ -48,8 +53,11 @@
   {
     "id": 27,
     "title": "Transforme Vendedor em Canal Online",
-    "tags": ["Vendas e Marketing"],
+    "tags": [
+      "Vendas e Marketing"
+    ],
     "product": "APP",
+    "icon": "storefront",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo26_02.png.png",
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo26_00.png",
@@ -70,8 +78,11 @@
   {
     "id": 10,
     "title": "Seu Catálogo Digial com IA",
-    "tags": ["Vendas e Marketing"],
+    "tags": [
+      "Vendas e Marketing"
+    ],
     "product": "APP",
+    "icon": "menu_book",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/12/fotoCatalogo-04-Grande.png",
       "https://www.widelab.com.br/wp-content/uploads/2025/12/fotoCatalogo-05.png",
@@ -92,8 +103,11 @@
   {
     "id": 8,
     "title": "Ofereça, Gerencie: Entrega Rápida",
-    "tags": ["Logística e Operação"],
+    "tags": [
+      "Logística e Operação"
+    ],
     "product": "Portal",
+    "icon": "local_shipping",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo08_10.png",
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo08_06.png-scaled.png",
@@ -117,8 +131,11 @@
   {
     "id": 1,
     "title": "Suas Notas Lançadas sem Digitar",
-    "tags": ["Administrativo e RH"],
+    "tags": [
+      "Administrativo e RH"
+    ],
     "product": "Automação",
+    "icon": "receipt_long",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-Entrada-de-Notas-Automatica-01.png"
     ],
@@ -135,8 +152,11 @@
   {
     "id": 26,
     "title": "Controle sua Produção Terceirizada",
-    "tags": ["Logística e Operação"],
+    "tags": [
+      "Logística e Operação"
+    ],
     "product": "APP",
+    "icon": "factory",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo26_01.png",
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo26_tablet.ai_.png",
@@ -156,8 +176,11 @@
   {
     "id": 13,
     "title": "Seu App de Loja com Sua Marca",
-    "tags": ["Vendas e Marketing"],
+    "tags": [
+      "Vendas e Marketing"
+    ],
     "product": "Portal",
+    "icon": "shopping_bag",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo13_01.png",
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo13_02.png.png",
@@ -178,8 +201,11 @@
   {
     "id": 19,
     "title": "Seu Motorista Conectado à Operação",
-    "tags": ["Logística e Operação"],
+    "tags": [
+      "Logística e Operação"
+    ],
     "product": "APP",
+    "icon": "route",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo19_00.png",
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo19_01.png",
@@ -199,8 +225,11 @@
   {
     "id": 7,
     "title": "Escale o Conhecimento da sua Equipe",
-    "tags": ["Administrativo e RH"],
+    "tags": [
+      "Administrativo e RH"
+    ],
     "product": "Portal",
+    "icon": "school",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo07_00.png",
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo07_01.png",
@@ -221,8 +250,11 @@
   {
     "id": 25,
     "title": "Remarcação de Preço sem Erro",
-    "tags": ["Varejo e Loja"],
+    "tags": [
+      "Varejo e Loja"
+    ],
     "product": "APP",
+    "icon": "price_change",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo25_03.png",
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo25_01.png",
@@ -242,8 +274,11 @@
   {
     "id": 20,
     "title": "Suas Vitrines Alinhadas em Toda Rede",
-    "tags": ["Varejo e Loja"],
+    "tags": [
+      "Varejo e Loja"
+    ],
     "product": "APP",
+    "icon": "store",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo20_00.png",
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo20_01.png",
@@ -264,8 +299,11 @@
   {
     "id": 22,
     "title": "Seus Representantes Vendendo Mais, Ligando Menos",
-    "tags": ["Vendas e Marketing"],
+    "tags": [
+      "Vendas e Marketing"
+    ],
     "product": "Portal",
+    "icon": "trending_up",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo22_05.png",
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo22_00.png",
@@ -289,8 +327,11 @@
   {
     "id": 14,
     "title": "Venda Passagens e Ingressos 24 horas",
-    "tags": ["Varejo e Loja"],
+    "tags": [
+      "Varejo e Loja"
+    ],
     "product": "Portal",
+    "icon": "confirmation_number",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo14_001.png",
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo14_002.png",
@@ -312,8 +353,11 @@
   {
     "id": 24,
     "title": "Suas Vagas Preenchidas com Menos Esforço",
-    "tags": ["Administrativo e RH"],
+    "tags": [
+      "Administrativo e RH"
+    ],
     "product": "APP",
+    "icon": "person_search",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo24_001.app_.png",
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo24_002.app_.png",
@@ -333,8 +377,11 @@
   {
     "id": 18,
     "title": "Saiba o que seu Fornecedor está Produzindo",
-    "tags": ["Logística e Operação"],
+    "tags": [
+      "Logística e Operação"
+    ],
     "product": "APP",
+    "icon": "fact_check",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id18-01.png",
       "https://www.widelab.com.br/wp-content/uploads/2025/10/Catalogo-id18-02.png",
@@ -354,8 +401,11 @@
   {
     "id": 17,
     "title": "Saiba Quem Vendeu, Quem Perdeu e Por Quê",
-    "tags": ["Varejo e Loja"],
+    "tags": [
+      "Varejo e Loja"
+    ],
     "product": "APP",
+    "icon": "insights",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo17_001.png",
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo17_002.png",
@@ -374,8 +424,11 @@
   {
     "id": 15,
     "title": "Seu WhatsApp Integrado aos seus Sistemas",
-    "tags": ["Vendas e Marketing"],
+    "tags": [
+      "Vendas e Marketing"
+    ],
     "product": "Automação",
+    "icon": "chat",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo15_001.png"
     ],
@@ -393,8 +446,11 @@
   {
     "id": 6,
     "title": "Suas Fotos Protegidas em 1 Clique",
-    "tags": ["Vendas e Marketing"],
+    "tags": [
+      "Vendas e Marketing"
+    ],
     "product": "Automação",
+    "icon": "copyright",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo06_00.png",
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo06_011.png"
@@ -412,8 +468,11 @@
   {
     "id": 28,
     "title": "Suas Mensagens Disparadas sem Esforço",
-    "tags": ["Vendas e Marketing"],
+    "tags": [
+      "Vendas e Marketing"
+    ],
     "product": "Automação",
+    "icon": "send",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/12/catalogo28_02.png"
     ],
@@ -432,6 +491,7 @@
     "title": "Não Achou o Seu? A Gente Desenha",
     "tags": [],
     "product": "Portal",
+    "icon": "design_services",
     "images": [
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo99_02.png.png",
       "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo99_01.png",
