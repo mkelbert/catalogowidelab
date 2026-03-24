@@ -487,6 +487,30 @@
     "scopeProposal": "Você monta a fila na planilha com número, nome e mensagem. Robô dispara no WhatsApp. Se não encontrar, manda e-mail com assunto e corpo personalizados. Zero contato esquecido."
   },
   {
+    "id": 29,
+    "title": "Cronify",
+    "tags": [
+        "Administrativo e RH"
+    ],
+    "product": "Orquestrador RPA",
+    "icon": "dashboard",
+    "images": [
+      "https://www.widelab.com.br/wp-content/uploads/2026/03/Catalogo_29.png",
+      "https://www.widelab.com.br/wp-content/uploads/2026/03/Catalogo_29._1.png",
+      "https://www.widelab.com.br/wp-content/uploads/2026/03/Catalogo_29._2.png",
+      "https://www.widelab.com.br/wp-content/uploads/2026/03/Catalogo_29._3.png"
+    ],
+    "videoUrl": "",
+    "prototype": "",
+    "pains": [
+      "Falta de controle centralizado sobre as automações e robôs rodando",
+      "Dificuldade de visualizar histórico, agendamentos e eventuais falhas",
+      "Incapacidade de mensurar a economia real (em R$) gerada pela operação automatizada"
+    ],
+    "scope": "Portal web que atua como o 'Centro de Comando' e orquestrador para agendamento, execução e histórico de robôs RPA.",
+    "scopeProposal": "O Cronify funciona como o relógio de precisão da sua operação. Através de um portal web unificado, você consegue visualizar a execução de todos os robôs, acompanhar o histórico de tarefas e gerenciar os agendamentos de forma impecável. Mais do que controle, a plataforma entrega a prova visual do ROI, mostrando claramente a economia de dinheiro e tempo gerada pelas automações da Widelab."
+  },  
+  {
     "id": 99,
     "title": "Não Achou o Seu? A Gente Desenha",
     "tags": [],
