@@ -417,7 +417,7 @@
   },
   {
     "id": 17,
-    "title": "Saiba Quem Vendeu, Quem Perdeu e Por Quê",
+    "title": "CRM de Loja & Fila de Vendedores",
     "tags": [
       "Varejo e Loja"
     ],
@@ -435,8 +435,8 @@
       "Registra atendimento, venda ou perda com motivo",
       "Você vê conversão por vendedor em tempo real"
     ],
-    "scope": "CRM de loja que organiza fila e mede conversão.",
-    "scopeProposal": "Cliente entra, vendedor da vez atende, registra no app. Vendeu ou perdeu, fica no histórico. Você descobre onde está vazando venda.",
+    "scope": "Saiba quem vendeu, quem perdeu e por quê — em tempo real.",
+    "scopeProposal": "Cliente entra, vendedor da vez atende e registra no app. Vendeu ou perdeu, fica no histórico com motivo. Você descobre onde está vazando venda e mede conversão por vendedor.",
     "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/17.jpg"
   },
   {
