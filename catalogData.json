@@ -1,7 +1,7 @@
 [
   {
     "id": 2,
-    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/2.png",
+    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/2.jpg",
     "title": "Libere seu Financeiro do Trabalho Repetitivo",
     "tags": [
       "Administrativo e RH"
@@ -50,7 +50,7 @@
     ],
     "scope": "Portal + App para rastrear 100% dos atendimentos técnicos.",
     "scopeProposal": "Abre chamado, técnico recebe no app, registra fotos e horas, cliente assina digital. Integra automático com ASTEC do Consistem.",
-    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/9.png"
+    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/9.jpg"
   },
   {
     "id": 27,
@@ -76,7 +76,7 @@
     ],
     "scope": "Prateleira infinita: seu vendedor vendendo fora da loja.",
     "scopeProposal": "Vendedor seleciona produtos, gera link, manda no WhatsApp. Cliente finaliza, comissão vai pro vendedor. +30% de alcance.",
-    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/27.png"
+    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/27.jpg"
   },
   {
     "id": 10,
@@ -102,7 +102,7 @@
     ],
     "scope": "App que coloca seu catálogo completo no bolso do cliente.",
     "scopeProposal": "Cliente busca por nome, código ou foto. Encontra na hora. Representantes e distribuidores param de ligar perguntando referência.",
-    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/10.png"
+    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/10.jpg"
   },
   {
     "id": 8,
@@ -131,7 +131,7 @@
     ],
     "scope": "Portal para você oferecer entrega rápida em seu negócio.",
     "scopeProposal": "Cria entrega, define rota, entregador recebe no app. Cliente acompanha. Integrado com EnvieBOX - Jaraguá do Sul/SC e região.",
-    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/8.png"
+    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/8.jpg"
   },
   {
     "id": 1,
@@ -154,7 +154,7 @@
     ],
     "scope": "Robô que lança notas fiscais automaticamente no seu ERP.",
     "scopeProposal": "XML chega, robô lê, valida impostos, preenche campos e lança no Consistem. Entradas, retornos, terceiros. Você só aprova exceções.",
-    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/1.png"
+    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/1.jpg"
   },
   {
     "id": 26,
@@ -179,7 +179,7 @@
     ],
     "scope": "A gestão das suas facções, integrado ao seu ERP.",
     "scopeProposal": "Você cria ordens, facção movimenta os cards pelo celular. Comunicação centralizada, sem WhatsApp perdido.",
-    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/26.png"
+    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/26.jpg"
   },
   {
     "id": 13,
@@ -205,7 +205,7 @@
     ],
     "scope": "Seu ecommerce em app próprio, além dos marketplaces.",
     "scopeProposal": "Integra com sua plataforma atual. Banners, catálogo, favoritos, carrinho e checkout. Pedido cai no mesmo lugar.",
-    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/13.png"
+    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/13.jpg"
   },
   {
     "id": 19,
@@ -230,7 +230,7 @@
     ],
     "scope": "App para motorista com rastreabilidade ponta a ponta.",
     "scopeProposal": "Logística monta rota no portal, motorista recebe no app, registra cada parada com foto. Sincroniza quando tem sinal. 100% das entregas comprovadas.",
-    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/19.png"
+    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/19.jpg"
   },
   {
     "id": 7,
@@ -256,7 +256,7 @@
     ],
     "scope": "Sua universidade corporativa própria.",
     "scopeProposal": "Monta trilhas com vídeo, texto, quiz. Colaborador acessa, completa, ganha certificado. Ideal pra alta rotatividade ou rede de franquias.",
-    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/7.png"
+    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/7.jpg"
   },
   {
     "id": 25,
@@ -281,7 +281,7 @@
     ],
     "scope": "App mobile para remarcação de preços no varejo.",
     "scopeProposal": "Sistema manda lista, funcionário vai na gôndola, confere e imprime na hora com impressora Bluetooth. Zero etiqueta com preço errado.",
-    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/25.png"
+    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/25.jpg"
   },
   {
     "id": 20,
@@ -307,7 +307,7 @@
     ],
     "scope": "Gestão centralizada de vitrines para redes e franquias.",
     "scopeProposal": "Indústria define vitrine, lojista recebe no app, monta e fotografa. Você aprova e tem catálogo visual de tudo. 100% das lojas no padrão.",
-    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/20.png"
+    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/20.jpg"
   },
   {
     "id": 22,
@@ -336,7 +336,7 @@
     ],
     "scope": "Portal de força de vendas customizado pra sua regra.",
     "scopeProposal": "Representante loga, vê clientes, monta pedido com políticas já aplicadas. Pedido cai direto no ERP. Regras comerciais respeitadas automaticamente.",
-    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/22.png"
+    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/22.jpg"
   },
   {
     "id": 14,
@@ -363,7 +363,7 @@
     ],
     "scope": "Plataforma completa para venda de passagens e ingressos.",
     "scopeProposal": "Cliente acessa, escolhe rota ou evento, seleciona assento, paga. Recebe ingresso digital, faz check-in no app. Você vende 24/7 sem guichê.",
-    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/14.png"
+    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/14.jpg"
   },
   {
     "id": 24,
@@ -388,7 +388,7 @@
     ],
     "scope": "App que conecta candidato, RH e automações num lugar só.",
     "scopeProposal": "Candidato vê vagas, preenche currículo e acompanha status. RH recebe tudo organizado no sistema. Add-ons de IA fazem triagem, agendam entrevistas e enriquecem dados automaticamente.",
-    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/24.png"
+    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/24.jpg"
   },
   {
     "id": 18,
@@ -413,7 +413,7 @@
     ],
     "scope": "App para inspeção de qualidade em fornecedores e produção externa.",
     "scopeProposal": "Inspetor acessa ordem, segue checklist, registra fotos e apontamentos. Você acompanha em tempo real por fornecedor, lote e ordem. Falhas aparecem na hora, não no recebimento.",
-    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/18.png"
+    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/18.jpg"
   },
   {
     "id": 17,
@@ -437,7 +437,7 @@
     ],
     "scope": "CRM de loja que organiza fila e mede conversão.",
     "scopeProposal": "Cliente entra, vendedor da vez atende, registra no app. Vendeu ou perdeu, fica no histórico. Você descobre onde está vazando venda.",
-    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/17.png"
+    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/17.jpg"
   },
   {
     "id": 15,
@@ -460,7 +460,7 @@
     ],
     "scope": "WhatsApp que consulta, responde e executa no seu ERP.",
     "scopeProposal": "Monta fluxos com menu de opções ou IA conversacional. Cliente pergunta, bot responde com dado real do sistema. Representante consulta estoque, motorista envia canhoto. Tudo automático.",
-    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/15.png"
+    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/15.jpg"
   },
   {
     "id": 6,
@@ -483,7 +483,7 @@
       "Protege seus produtos de cópia pela concorrência",
       "Exporta tudo em ZIP, pronto"
     ],
-    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/6.png"
+    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/6.jpg"
   },
   {
     "id": 28,
@@ -506,7 +506,7 @@
     ],
     "scope": "Automação que dispara WhatsApp e faz fallback para e-mail.",
     "scopeProposal": "Você monta a fila na planilha com número, nome e mensagem. Robô dispara no WhatsApp. Se não encontrar, manda e-mail com assunto e corpo personalizados. Zero contato esquecido.",
-    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/28.png"
+    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/28.jpg"
   },
   {
     "id": 29,
@@ -531,7 +531,7 @@
     ],
     "scope": "Portal web que atua como o 'Centro de Comando' e orquestrador para agendamento, execução e histórico de robôs RPA.",
     "scopeProposal": "O Cronify funciona como o relógio de precisão da sua operação. Através de um portal web unificado, você consegue visualizar a execução de todos os robôs, acompanhar o histórico de tarefas e gerenciar os agendamentos de forma impecável. Mais do que controle, a plataforma entrega a prova visual do ROI, mostrando claramente a economia de dinheiro e tempo gerada pelas automações da Widelab.",
-    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/29.png"
+    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/29.jpg"
   },
   {
     "id": 99,
@@ -557,6 +557,6 @@
     ],
     "scope": "Seu problema, nossa engenharia.",
     "scopeProposal": "Conta o desafio, a gente desenha um protótipo navegável. Você testa, ajusta, aprova. Só depois vira projeto. Sem risco de construir o sistema errado.",
-    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/99.png"
+    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/99.jpg"
   }
 ]
