@@ -310,35 +310,6 @@
     "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/20.jpg"
   },
   {
-    "id": 22,
-    "title": "App de Vendas para Representantes",
-    "tags": [
-      "Vendas e Marketing"
-    ],
-    "product": "Portal",
-    "icon": "trending_up",
-    "images": [
-      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo22_05.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo22_00.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo22_01.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo22_02.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo22_03.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo22_04.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo22_06.png",
-      "https://www.widelab.com.br/wp-content/uploads/2025/12/Catalogo22_07.png"
-    ],
-    "videoUrl": "",
-    "prototype": "",
-    "pains": [
-      "Representante faz pedido em 5 minutos",
-      "Preço, estoque e prazo sempre atualizados",
-      "Menos ligação pro seu comercial"
-    ],
-    "scope": "Portal de força de vendas customizado pra sua regra.",
-    "scopeProposal": "Representante loga, vê clientes, monta pedido com políticas já aplicadas. Pedido cai direto no ERP. Regras comerciais respeitadas automaticamente.",
-    "coverImage": "https://nsjuliilyvlacgkguoll.supabase.co/storage/v1/object/public/product-covers/22.jpg"
-  },
-  {
     "id": 14,
     "title": "Portal de Venda de Passagens & Ingressos",
     "tags": [
